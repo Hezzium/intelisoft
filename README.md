@@ -11,7 +11,7 @@ Por lo tanto necesitamos crear rutinas de Web Scraping para distintos bancos
 asi automatizar el proceso de descarga de informacion bancaria a formato csv.
 
 ### Requerimientos
-Usar alguna tecnologia de Web Scraping como Pupeteer o Selenium para poder
+Usar alguna tecnologia de Web Scraping como Puppeteer o Selenium para poder
 imitar usiarios y poder extraer la info solicitada.
 
 ### Mapa conceptual
