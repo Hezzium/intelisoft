@@ -35,3 +35,6 @@ Como por ejempo: Fecha | Monto | Tipo | Moneda | Glosa
 
 ### Ejemplo usando Puppeteer.js
 [Banco BCI](bci.js)
+
+### Entregable esperado
+Rutinas ejecutables desde la terminal
