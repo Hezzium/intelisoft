@@ -24,7 +24,6 @@ Nota:
 El punto 3 prodria ser reempazado con la descarga de cartolas en archivos excel.
 La descarga a CSV va a requerir columnas especificas que seran determinadas mas adelante.
 En una primera instancia descargar la informacion con cabeceras que hagan sentido.
-
 Como por ejempo: Fecha | Monto | Tipo | Moneda | Glosa
 
 ### Conocimientos requeridos
@@ -34,5 +33,5 @@ Como por ejempo: Fecha | Monto | Tipo | Moneda | Glosa
 * GIT para control de version
 * GitHub para colaboracion y control
 
-### Ejemplo usando Pupeteer.js
+### Ejemplo usando Puppeteer.js
 [Banco BCI](bci.js)
