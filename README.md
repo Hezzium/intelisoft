@@ -20,7 +20,12 @@ imitar usiarios y poder extraer la info solicitada.
 3. Leer HTML y descargar informacion a CSV para alimetar otro sistema
 
 Nota:
-El punto 3 prodria ser reempazado con la descarga de cartolas en archivos excel
+
+El punto 3 prodria ser reempazado con la descarga de cartolas en archivos excel.
+La descarga a CSV va a requerir columnas especificas que seran determinadas mas adelante.
+En una primera instancia descargar la informacion con cabeceras que hagan sentido.
+
+Como por ejempo: Fecha | Monto | Tipo | Moneda | Glosa
 
 ### Conocimientos requeridos
 * HTML
