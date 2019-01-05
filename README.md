@@ -15,9 +15,9 @@ Usar alguna tecnologia de Web Scraping como Pupeteer o Selenium para poder
 imitar usiarios y poder extraer la info solicitada.
 
 ### Mapa conceptual
-1- Acceder a paginas de bancos programaticamente
-2- Poder hacer travesia dentro de las paginas con el fin de exponer transacciones
-3- Leer HTML y descargar informacion a CSV para alimetar otro sistema
+1. Acceder a paginas de bancos programaticamente
+2. Poder hacer travesia dentro de las paginas con el fin de exponer transacciones
+3. Leer HTML y descargar informacion a CSV para alimetar otro sistema
 
 Nota:
 El punto 3 prodria ser reempazado con la descarga de cartolas en archivos excel
