@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<RespuestaDTE xmlns="http://www.sii.cl/SiiDte" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sii.cl/SiiDte RespuestaEnvioDTE_v10.xsd" version="1.0">
+	<Resultado ID="r26097">
+		<Caratula version="1.0">
+			<RutResponde>85956200-0</RutResponde>
+			<RutRecibe>78923230-K</RutRecibe>
+			<IdRespuesta>26097</IdRespuesta>
+			<NroDetalles>1</NroDetalles>
+			<NmbContacto>Rodrigo Rosales Rojas</NmbContacto>
+			<FonoContacto>25787100</FonoContacto>
+			<MailContacto>facturacion@csenergy.cl</MailContacto>
+			<TmstFirmaResp>2019-01-09T09:54:52</TmstFirmaResp>
+		</Caratula>
+		<RecepcionEnvio> 
+			<NmbEnvio>enviodte_tipo-33_folio-6044_de-78923230-k_para-85956200-0_fecha-20181221.xml</NmbEnvio>
+			<FchRecep>2018-12-21T03:00:00</FchRecep>
+			<CodEnvio>26097</CodEnvio>
+			<EnvioDTEID>ID78923230-K__1__33__6044</EnvioDTEID>
+			<Digest>/rmYUb/5xPSQpd/p8yijg5o8DcI=</Digest>
+			<RutEmisor>78923230-K</RutEmisor>
+			<RutReceptor>85956200-0</RutReceptor>
+			<EstadoRecepEnv>0</EstadoRecepEnv>
+			<RecepEnvGlosa>0:Recibido Conforme.</RecepEnvGlosa>
+			<NroDTE>1</NroDTE>
+			<RecepcionDTE>
+				<TipoDTE>33</TipoDTE>
+				<Folio>6044</Folio>
+				<FchEmis>2018-12-21</FchEmis>
+				<RUTEmisor>78923230-K</RUTEmisor>
+				<RUTRecep>85956200-0</RUTRecep>
+				<MntTotal>4319700</MntTotal>
+				<EstadoRecepDTE>0</EstadoRecepDTE>
+				<RecepDTEGlosa>DTE Recibido OK</RecepDTEGlosa>
+			</RecepcionDTE>
+		</RecepcionEnvio>
+	</Resultado>
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI="#r26097"><Transforms><Transform Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>kEw+iwiz0ZkWT+271oqxjnTlY14=</DigestValue></Reference></SignedInfo><SignatureValue>dX6pwxIQR2c2vwSHWi9kq0VjB7X62mH0+fmIdl4jU9TLQCobGWjRs38p7Y49Vo+kxUjKWSGGj1XvBJtnP7OnZZzSQxXHA7BvjYnfcXu/eHS58mAGPgpuL8JublE7rb/a27o2w0Rr5P5/AvnDcQkgNUmxI307j++6IfvuSOm9vvI=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>xt7EaI4gD5jHM8+9Be58ha2Vrc2VWczqRfZAP5jspiGuBPuhuBDJ4+PjlpCnC608ifIiUn4I4JXPXdtK8g73D8VgyNNGRGahQ7axCQQ/5T7j+RtjQgrfvDvij6kDhP4av/U61t64JCzdiHAIf2MbEvg/w+NR4V3xVLzrvXKJo4U=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIGVDCCBTygAwIBAgIKHqrWsAAAAAlTRzANBgkqhkiG9w0BAQUFADCB0jELMAkGA1UEBhMCQ0wx
+HTAbBgNVBAgTFFJlZ2lvbiBNZXRyb3BvbGl0YW5hMREwDwYDVQQHEwhTYW50aWFnbzEUMBIGA1UE
+ChMLRS1DRVJUQ0hJTEUxIDAeBgNVBAsTF0F1dG9yaWRhZCBDZXJ0aWZpY2Fkb3JhMTAwLgYDVQQD
+EydFLUNFUlRDSElMRSBDQSBGSVJNQSBFTEVDVFJPTklDQSBTSU1QTEUxJzAlBgkqhkiG9w0BCQEW
+GHNjbGllbnRlc0BlLWNlcnRjaGlsZS5jbDAeFw0xNzExMTQxOTU5NDJaFw0yMDExMTMxOTU5NDJa
+MIHXMQswCQYDVQQGEwJDTDEjMCEGA1UECBMaTUVUUk9QT0xJVEFOQSBERSBTQU5USUFHTyAxETAP
+BgNVBAcTCFNhbnRpYWdvMRwwGgYDVQQKExNDQUxWTyBJTkdFTklFUklBIFNBMRUwEwYDVQQLEwxD
+T05UQUJJTElEQUQxMDAuBgNVBAMTJ1JPRE9MRk8gTFVJUyBFTlJJUVVFIERFQk9OTkFGT1MgR0FO
+REFSQTEpMCcGCSqGSIb3DQEJARYaTlVCSUEuSUxMRVNDQVNAQ1NFTkVSR1kuQ0wwgZ8wDQYJKoZI
+hvcNAQEBBQADgY0AMIGJAoGBAMbexGiOIA+YxzPPvQXufIWtla3NlVnM6kX2QD+Y7KYhrgT7obgQ
+yePj45aQpwutPInyIlJ+COCVz13bSvIO9w/FYMjTRkRmoUO2sQkEP+U+4/kbY0IK37w74o+pA4T+
+Gr/1OtbeuCQs3YhwCH9jGxL4P8PjUeFd8VS8671yiaOFAgMBAAGjggKnMIICozA9BgkrBgEEAYI3
+FQcEMDAuBiYrBgEEAYI3FQiC3IMvhZOMZoXVnReC4twnge/sPGGBmucVhq/gFQIBZAIBBDAdBgNV
+HQ4EFgQUZHhAokRgTdQMhfC7rdWTPlvvpR8wCwYDVR0PBAQDAgTwMB8GA1UdIwQYMBaAFHjhPp/S
+ErN6PI3NMA5Ts0MpB7NVMD4GA1UdHwQ3MDUwM6AxoC+GLWh0dHA6Ly9jcmwuZS1jZXJ0Y2hpbGUu
+Y2wvZWNlcnRjaGlsZWNhRkVTLmNybDA6BggrBgEFBQcBAQQuMCwwKgYIKwYBBQUHMAGGHmh0dHA6
+Ly9vY3NwLmVjZXJ0Y2hpbGUuY2wvb2NzcDAjBgNVHREEHDAaoBgGCCsGAQQBwQEBoAwWCjA3MjY3
+NDM0LTAwIwYDVR0SBBwwGqAYBggrBgEEAcEBAqAMFgo5NjkyODE4MC01MIIBTQYDVR0gBIIBRDCC
+AUAwggE8BggrBgEEAcNSBTCCAS4wLQYIKwYBBQUHAgEWIWh0dHA6Ly93d3cuZS1jZXJ0Y2hpbGUu
+Y2wvQ1BTLmh0bTCB/AYIKwYBBQUHAgIwge8egewAQwBlAHIAdABpAGYAaQBjAGEAZABvACAARgBp
+AHIAbQBhACAAUwBpAG0AcABsAGUALgAgAEgAYQAgAHMAaQBkAG8AIAB2AGEAbABpAGQAYQBkAG8A
+IABlAG4AIABmAG8AcgBtAGEAIABwAHIAZQBzAGUAbgBjAGkAYQBsACwAIABxAHUAZQBkAGEAbgBk
+AG8AIABoAGEAYgBpAGwAaQB0AGEAZABvACAAZQBsACAAQwBlAHIAdABpAGYAaQBjAGEAZABvACAA
+cABhAHIAYQAgAHUAcwBvACAAdAByAGkAYgB1AHQAYQByAGkAbzANBgkqhkiG9w0BAQUFAAOCAQEA
+T5RQB3/unXBnsHc6iQJb2yqsTqRlUJ7Y4OTffUKvBsH19o07KK/L3xF9B8QZf2JfxWsFkTriKw1p
+YVciqsAQnqRVk+tzaGil3+Vu0cBXImhujidWJGo7l7GpNrV0Tp5LoszQmPvy6koPO+0M1yJMjKs/
+UAwLaolwrnJhXmPbOUgG1tvzz/eUJjDWFkcR9ofhIp41gQe8js66dtJMAnFzMaYiaGsvKxD/cFhD
+eO8swAr02kzDm5jk2Kzjd0yJcivFH9uPMI+odqT8eFQKFwpNXVsikwSfWwJe21x4nlmHdLCp3yBk
+85JjLC1ClqQA0pvQcdk0fKr2ZzrU/zrzcsFi9w==</X509Certificate></X509Data></KeyInfo></Signature></RespuestaDTE>
+  
