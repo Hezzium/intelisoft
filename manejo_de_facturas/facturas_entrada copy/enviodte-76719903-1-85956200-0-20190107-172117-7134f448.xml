@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<EnvioDTE xmlns="http://www.sii.cl/SiiDte" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0" xsi:schemaLocation="http://www.sii.cl/SiiDte EnvioDTE_v10.xsd">
+<SetDTE ID="EnvioDTE-76719903-1-85956200-0-20190107-172117-7134F448">
+<Caratula version="1.0">
+<RutEmisor>76719903-1</RutEmisor>
+<RutEnvia>5544700-4</RutEnvia>
+<RutReceptor>85956200-0</RutReceptor>
+<FchResol>2014-08-22</FchResol>
+<NroResol>80</NroResol>
+<TmstFirmaEnv>2019-01-07T17:21:17</TmstFirmaEnv>
+<SubTotDTE>
+<TpoDTE>33</TpoDTE>
+<NroDTE>1</NroDTE>
+</SubTotDTE>
+</Caratula>
+<DTE xmlns="http://www.sii.cl/SiiDte" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
+      <Documento ID="T33F442">
+        <Encabezado>
+          <IdDoc>
+            <TipoDTE>33</TipoDTE>
+            <Folio>442</Folio>
+            <FchEmis>2019-01-07</FchEmis>
+            <FchVenc>2019-01-07</FchVenc>
+          </IdDoc>
+          <Emisor>
+            <RUTEmisor>76719903-1</RUTEmisor>
+            <RznSoc>Primux SA</RznSoc>
+            <GiroEmis>Servicio Tecnico Automotriz</GiroEmis>
+            <Acteco>502080</Acteco>
+            <Sucursal>1-Casa Matriz</Sucursal>
+            <DirOrigen>Los Productores 4462</DirOrigen>
+            <CmnaOrigen>Huechuraba</CmnaOrigen>
+            <CiudadOrigen>Santiago</CiudadOrigen>
+          </Emisor>
+          <Receptor>
+            <RUTRecep>85956200-0</RUTRecep>
+            <RznSocRecep>Calvo Ingenieria S.A.</RznSocRecep>
+            <GiroRecep>Acondicionamiento De Edificios</GiroRecep>
+            <Contacto>Fono: +56 2 25787114</Contacto>
+            <DirRecep>Leon de la Barra N 9441</DirRecep>
+            <CmnaRecep>Lo Espejo</CmnaRecep>
+            <CiudadRecep>Santiago</CiudadRecep>
+          </Receptor>
+          <Transporte>
+            <Patente></Patente>
+            <DirDest>LEON DE LA BARRA N 9441</DirDest>
+            <CmnaDest>LO ESPEJO</CmnaDest>
+            <CiudadDest>SANTIAGO</CiudadDest>
+          </Transporte>
+          <Totales>
+            <MntNeto>197338</MntNeto>
+            <MntExe>0</MntExe>
+            <TasaIVA>19</TasaIVA>
+            <IVA>37494</IVA>
+            <MntTotal>234832</MntTotal>
+          </Totales>
+        </Encabezado>
+        <Detalle> 
+			<NroLinDet>1</NroLinDet> 
+			<CdgItem> 
+				<TpoCodigo>INT1</TpoCodigo> 
+				<VlrCodigo>152089599R</VlrCodigo> 
+			</CdgItem> 
+			<NmbItem>Filtro de Aceite Renault</NmbItem> 
+			<QtyItem>1.0000</QtyItem> 
+			<UnmdItem>C/U</UnmdItem> 
+			<PrcItem>15333.000000</PrcItem> 
+			<MontoItem>15333</MontoItem> 
+		</Detalle>
+        <Detalle> 
+			<NroLinDet>2</NroLinDet> 
+			<CdgItem> 
+				<TpoCodigo>INT1</TpoCodigo> 
+				<VlrCodigo>165467674R</VlrCodigo> 
+			</CdgItem> 
+			<NmbItem>Filtro de Aire</NmbItem> 
+			<QtyItem>1.0000</QtyItem> 
+			<UnmdItem>C/U</UnmdItem> 
+			<PrcItem>19339.000000</PrcItem> 
+			<MontoItem>19339</MontoItem> 
+		</Detalle>
+        <Detalle> 
+			<NroLinDet>3</NroLinDet> 
+			<CdgItem> 
+				<TpoCodigo>INT1</TpoCodigo> 
+				<VlrCodigo>164033646R</VlrCodigo> 
+			</CdgItem> 
+			<NmbItem>Elemento Filtro Diesel</NmbItem> 
+			<QtyItem>1.0000</QtyItem> 
+			<UnmdItem>C/U</UnmdItem> 
+			<PrcItem>62666.000000</PrcItem> 
+			<MontoItem>62666</MontoItem> 
+		</Detalle>
+        <Detalle> 
+			<NroLinDet>4</NroLinDet> 
+			<CdgItem> 
+				<TpoCodigo>INT1</TpoCodigo> 
+				<VlrCodigo>ABT530T</VlrCodigo> 
+			</CdgItem> 
+			<NmbItem>Aceite Booster Titanium 5W-30</NmbItem> 
+			<QtyItem>4.0000</QtyItem> 
+			<UnmdItem>Litr</UnmdItem> 
+			<PrcItem>10000.000000</PrcItem> 
+			<MontoItem>40000</MontoItem> 
+		</Detalle>
+        <Detalle> 
+			<NroLinDet>5</NroLinDet> 
+			<CdgItem> 
+				<TpoCodigo>INT1</TpoCodigo> 
+				<VlrCodigo>MO1REARKM</VlrCodigo> 
+			</CdgItem> 
+			<NmbItem>Realizar Revision De 20000 Km</NmbItem> 
+			<QtyItem>2.0000</QtyItem> 
+			<UnmdItem>HH</UnmdItem> 
+			<PrcItem>30000.000000</PrcItem> 
+			<MontoItem>60000</MontoItem> 
+		</Detalle>
+        <TED version="1.0">
+          <DD>
+            <RE>76719903-1</RE>
+            <TD>33</TD>
+            <F>442</F>
+            <FE>2019-01-07</FE>
+            <RR>85956200-0</RR>
+            <RSR>Calvo Ingenieria S.A.</RSR>
+            <MNT>234832</MNT>
+            <IT1>Filtro de Aceite Renault</IT1>
+            <CAF version="1.0">
+              <DA>
+                <RE>76719903-1</RE>
+                <RS>PRIMUX S.A</RS>
+                <TD>33</TD>
+                <RNG>
+                  <D>368</D>
+                  <H>603</H>
+                </RNG>
+                <FA>2018-10-04</FA>
+                <RSAPK>
+                  <M>wHeLkgz7ISLXRXxJvV9Xa23cNbNy8Oc+7hvGNYXXY83TgwLQuaV+dgklDuS+T5DrnPXCwg6oyaAhYdrfZrictQ==</M>
+                  <E>Aw==</E>
+                </RSAPK>
+                <IDK>300</IDK>
+              </DA>
+              <FRMA algoritmo="SHA1withRSA">OuqtcGCtXA+4Z8sMuNbXxJyzug+h4Y+XiONb2XcpRuzf4dOctjGrBHP6B9yvX0NmybERvPZJNsnWN6zDB2ZRow==</FRMA>
+            </CAF>
+            <TSTED>2019-01-07T17:13:05</TSTED>
+          </DD>
+          <FRMT algoritmo="SHA1withRSA">vPZ7trw/zzNEvqnCsWVqLXqHIF0oi0Tc2GTxLBKwnNtYDFqmc1pqgIFG58UGHu6+mfON7O2cVpsj
+dU4QbB7wqw==</FRMT>
+        </TED>
+        <TmstFirma>2019-01-07T17:13:05</TmstFirma>
+      </Documento>
+      <Signature xmlns="http://www.w3.org/2000/09/xmldsig#">
+	<SignedInfo>
+		<CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"></CanonicalizationMethod>
+		<SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"></SignatureMethod>
+		<Reference URI="#T33F442">
+			<DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></DigestMethod>
+			<DigestValue>z7izDfCpRNAoGv5WaEdG6/P1Zco=</DigestValue>
+		</Reference>
+	</SignedInfo>
+	<SignatureValue>IlzWWe5NteBdO6iSIdMhmsoJlOKQuCY5VXNHyIsaQBvXqh+bx/SS3EhAK/w8OWqYvFIYB3atFAfz
+bG4auSMwH0TfgBbN7eIh3AFkljj5jJw6LdR9yfOe7zCahpoAsgccoivoCuW0wrloSbPeQBGaEHZB
+wapA+rx85Ev01Iw9i1U=</SignatureValue>
+	<KeyInfo>
+		<KeyValue>
+			<RSAKeyValue>
+				<Modulus>vjRZIOK5LosH2dfIkfDnpiVzreX2i3x3di1K17NZ52vVo+aFWDJPrCGApL1h3bJORfY502vVrQTd
+li933vMcfROF0SreFB0FYkH30l2784ouvyZtfYHgFY/dyLpQ9ox+BaeWi62pzwTAZ19k5YD+Asoi
+ttZvMHc9BDkzadbFPG8=</Modulus>
+				<Exponent>AQAB</Exponent>
+			</RSAKeyValue>
+		</KeyValue>
+		<X509Data>
+			<X509Certificate>MIIFaTCCBFGgAwIBAgIDARlBMA0GCSqGSIb3DQEBCwUAMIGmMQswCQYDVQQGEwJDTDEYMBYGA1UE
+ChMPQWNlcHRhLmNvbSBTLkEuMUgwRgYDVQQDEz9BY2VwdGEuY29tIEF1dG9yaWRhZCBDZXJ0aWZp
+Y2Fkb3JhIENsYXNlIDIgUGVyc29uYSBOYXR1cmFsIC0gRzQxHjAcBgkqhkiG9w0BCQEWD2luZm9A
+YWNlcHRhLmNvbTETMBEGA1UEBRMKOTY5MTkwNTAtODAeFw0xNzA3MjYxNDIwMTZaFw0yMDA3MjYx
+NDIwMTZaMIGFMQswCQYDVQQGEwJDTDEYMBYGA1UEDBMPUEVSU09OQSBOQVRVUkFMMSIwIAYDVQQD
+ExlIVUdPIEpPU0UgVEFHTEUgRkVSTkFOREVaMSMwIQYJKoZIhvcNAQkBFhR2cm9kcmlndWV6QHBy
+aW11eC5jbDETMBEGA1UEBRMKMTI4NzI3MTAtODCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEA
+vjRZIOK5LosH2dfIkfDnpiVzreX2i3x3di1K17NZ52vVo+aFWDJPrCGApL1h3bJORfY502vVrQTd
+li933vMcfROF0SreFB0FYkH30l2784ouvyZtfYHgFY/dyLpQ9ox+BaeWi62pzwTAZ19k5YD+Asoi
+ttZvMHc9BDkzadbFPG8CAwEAAaOCAkEwggI9MB8GA1UdIwQYMBaAFGWlqz4/yLZRbRF+X8MKB+ZD
+oAi2MB0GA1UdDgQWBBST2t2gzTazuIo6zXftFfD5ukctcjALBgNVHQ8EBAMCBPAwHQYDVR0lBBYw
+FAYIKwYBBQUHAwIGCCsGAQUFBwMEMBEGCWCGSAGG+EIBAQQEAwIFoDB1BgNVHSAEbjBsMGoGCCsG
+AQQBtWsCMF4wMQYIKwYBBQUHAgEWJWh0dHBzOi8vYWNnNC5hY2VwdGEuY29tL0NQUy1BY2VwdGFj
+b20wKQYIKwYBBQUHAgIwHTAWFg9BY2VwdGEuY29tIFMuQS4wAwIBCRoDVEJEMFoGA1UdEgRTMFGg
+GAYIKwYBBAHBAQKgDBYKOTY5MTkwNTAtOKAkBggrBgEFBQcIA6AYMBYMCjk2OTE5MDUwLTgGCCsG
+AQQBwQECgQ9pbmZvQGFjZXB0YS5jb20wXwYDVR0RBFgwVqAYBggrBgEEAcEBAaAMFgoxMjg3Mjcx
+MC04oCQGCCsGAQUFBwgDoBgwFgwKMTI4NzI3MTAtOAYIKwYBBAHBAQKBFHZyb2RyaWd1ZXpAcHJp
+bXV4LmNsMEcGCCsGAQUFBwEBBDswOTA3BggrBgEFBQcwAYYraHR0cHM6Ly9hY2c0LmFjZXB0YS5j
+b20vYWNnNC9vY3NwL0NsYXNlMi1HNDA/BgNVHR8EODA2MDSgMqAwhi5odHRwczovL2FjZzQuYWNl
+cHRhLmNvbS9hY2c0L2NybC9DbGFzZTItRzQuY3JsMA0GCSqGSIb3DQEBCwUAA4IBAQBMssqzowpk
+kIbLHa3vwLLOK4tYGIJiLXxDDreQrgqVyA8TD1ycb8SGsIG18wY/JOwL/Dr41n/nNtFzyhbFHy4z
+KX9kiOW954YPH1HKROzhC65FHzEmwidOCOwGBzhumdtZmtxQjRKUpeb7Lvhg5WrdIyAfYceYr896
+CjN/d9MoHv7UWgzKGkoX/F9248jvg0zJECiLz3nx/E3HGQ+/Xqnosr5FxGudp9NG2KJnEhaJrxp3
+VvaQz+xi3hUbjEGE9nUvBGNUF7zQnSyAYaXuX4jX1DxnraNI4yjnIbFS6RG616I877bBp2bVfZ/r
+/EdaxC3EcWx9Dsy3FnvQY2rAJMDL</X509Certificate>
+		</X509Data>
+	</KeyInfo>
+</Signature>
+    </DTE></SetDTE>
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"></CanonicalizationMethod><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"></SignatureMethod><Reference URI="#EnvioDTE-76719903-1-85956200-0-20190107-172117-7134F448"><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></DigestMethod><DigestValue>jPeu7XUvorLOenNnrndO/qt1oj0=</DigestValue></Reference></SignedInfo><SignatureValue>eO4XfmH3T0aYxyNRUJoC9AWnKpeb1rPJKFUzxsE9N8B4gwo9fkftM6B1kcHJOViJStva6DAFmJ11
+GfGqGoDXJF0SbEVd30mc2gvTUXmjxFlS1nI/qY8essV0z+z8RzxAeRcWUgYXwMD+aWb5sTViXRkv
+oqmYMo2ajLfIZSroxjntB0hqsPheSrsl8SssAJ7hAgILEJWv4nnEFgceeGa33GPZG4JPtQ0unZuT
+BdzQT0Rh9pajmvzfm1ha0cOecfLFq0goY8/tN5iBkR/c8qXwDSo2qEXtR5aK/lu0mmIBsSrIBoNA
+5dyxnGXZHhklbe3vYod5dd2RLE+JgFNvCfsx+A==</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>lFOmbrg9OkK2yG7URNP9kaVZQLRvqYF4llzwx5YsJJ9l7pmmkrQxzHNy3kGPdBtX2LIE6GdX11br
+qdGjBIs39SaptmIM0AHvQ5pe/5n/kKUw/hJebUo94RiNTaaKhYw3XcEZ2PcOkZkYNPRYGdNWGzyj
+/5dI5r6wi3JVZRGI2a1mgNFS96sG84nQstYz1PMts7MUuiEK+ibRnmgKAmBKAj2cbHKcqkn9BzEO
+8O83dYX6EQRxSyE2KRONqw7misVop0gcnVIiQm/vOs74rcGZ2t848X6vaVgrYsU+cQYETf7OrArh
+vUpFU+0Iv+br9fxXIR9bxnGFj+ZbaNgAPfaDZQ==</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIF7zCCBNegAwIBAgIBFDANBgkqhkiG9w0BAQsFADCBpjELMAkGA1UEBhMCQ0wxGDAWBgNVBAoT
+D0FjZXB0YS5jb20gUy5BLjFIMEYGA1UEAxM/QWNlcHRhLmNvbSBBdXRvcmlkYWQgQ2VydGlmaWNh
+ZG9yYSBDbGFzZSAyIFBlcnNvbmEgTmF0dXJhbCAtIEc0MR4wHAYJKoZIhvcNAQkBFg9pbmZvQGFj
+ZXB0YS5jb20xEzARBgNVBAUTCjk2OTE5MDUwLTgwHhcNMTYxMDA3MTkxNzU4WhcNMTkxMDA3MTkx
+NzU4WjCBhjELMAkGA1UEBhMCQ0wxGDAWBgNVBAwTD1BFUlNPTkEgTkFUVVJBTDEfMB0GA1UEAxMW
+UEFCTE8gSVpRVUlFUkRPIFdBTEtFUjEoMCYGCSqGSIb3DQEJARYZcGFibG9penF1aWVyZG93QGdt
+YWlsLmNvbTESMBAGA1UEBRMJNTU0NDcwMC00MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKC
+AQEAlFOmbrg9OkK2yG7URNP9kaVZQLRvqYF4llzwx5YsJJ9l7pmmkrQxzHNy3kGPdBtX2LIE6GdX
+11brqdGjBIs39SaptmIM0AHvQ5pe/5n/kKUw/hJebUo94RiNTaaKhYw3XcEZ2PcOkZkYNPRYGdNW
+Gzyj/5dI5r6wi3JVZRGI2a1mgNFS96sG84nQstYz1PMts7MUuiEK+ibRnmgKAmBKAj2cbHKcqkn9
+BzEO8O83dYX6EQRxSyE2KRONqw7misVop0gcnVIiQm/vOs74rcGZ2t848X6vaVgrYsU+cQYETf7O
+rArhvUpFU+0Iv+br9fxXIR9bxnGFj+ZbaNgAPfaDZQIDAQABo4ICRDCCAkAwHwYDVR0jBBgwFoAU
+ZaWrPj/ItlFtEX5fwwoH5kOgCLYwHQYDVR0OBBYEFKp8iBzLRiGHokqiR7ocmLIYH65iMAsGA1Ud
+DwQEAwIE8DAdBgNVHSUEFjAUBggrBgEFBQcDAgYIKwYBBQUHAwQwEQYJYIZIAYb4QgEBBAQDAgWg
+MHUGA1UdIARuMGwwagYIKwYBBAG1awIwXjAxBggrBgEFBQcCARYlaHR0cHM6Ly9hY2c0LmFjZXB0
+YS5jb20vQ1BTLUFjZXB0YWNvbTApBggrBgEFBQcCAjAdMBYWD0FjZXB0YS5jb20gUy5BLjADAgEJ
+GgNUQkQwWgYDVR0SBFMwUaAYBggrBgEEAcEBAqAMFgo5NjkxOTA1MC04oCQGCCsGAQUFBwgDoBgw
+FgwKOTY5MTkwNTAtOAYIKwYBBAHBAQKBD2luZm9AYWNlcHRhLmNvbTBiBgNVHREEWzBZoBcGCCsG
+AQQBwQEBoAsWCTU1NDQ3MDAtNKAjBggrBgEFBQcIA6AXMBUMCTU1NDQ3MDAtNAYIKwYBBAHBAQKB
+GXBhYmxvaXpxdWllcmRvd0BnbWFpbC5jb20wRwYIKwYBBQUHAQEEOzA5MDcGCCsGAQUFBzABhito
+dHRwczovL2FjZzQuYWNlcHRhLmNvbS9hY2c0L29jc3AvQ2xhc2UyLUc0MD8GA1UdHwQ4MDYwNKAy
+oDCGLmh0dHBzOi8vYWNnNC5hY2VwdGEuY29tL2FjZzQvY3JsL0NsYXNlMi1HNC5jcmwwDQYJKoZI
+hvcNAQELBQADggEBAL0/jTzpAMmxX7v5w/dFYyQmTZPxN7fxWxKyf0np751stBTHnUExiFv+wqIv
+E3iE5Znr8tMoeWwpDz+V0hgKqQDUtZipGbN2XNW19yS6JgenoNbv6dUbVpJwuYJeYcjhtXoePo64
+AoP5cqM/xtcyVkePs2Y/fpBvehXC0qwq1zpxQkMNt+p+3UJqVH12qsMKBUw038Q+t4YIPG18W74c
+KObVaxGG5A/YyTWsGM2Nupmc10p/yXgAZLDptlWA4h7/HHFJT8wRvAdBzhXo1IRsDrfBZ4cI93ts
+fH0PdMlRqFg1zc3e+hA66nqxtua75CK21+fwx6cMP+rm7kRfVWA6tf4=</X509Certificate></X509Data></KeyInfo></Signature></EnvioDTE>

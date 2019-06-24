@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<EnvioDTE version="1.0" xmlns="http://www.sii.cl/SiiDte" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sii.cl/SiiDte EnvioDTE_v10.xsd">
+  <SetDTE ID="ID96542490-3__1__52__763585">
+    <Caratula version="1.0">
+      <RutEmisor>96542490-3</RutEmisor>
+      <RutEnvia>14681596-0</RutEnvia>
+      <RutReceptor>85956200-0</RutReceptor>
+      <FchResol>2008-04-30</FchResol>
+      <NroResol>54</NroResol>
+      <TmstFirmaEnv>2019-01-04T15:31:44</TmstFirmaEnv>
+      
+    <SubTotDTE><TpoDTE>52</TpoDTE><NroDTE>1</NroDTE></SubTotDTE></Caratula>
+    
+  <DTE version="1.0">
+      <Documento ID="F763585T52">
+        <Encabezado>
+          <IdDoc>
+            <TipoDTE>52</TipoDTE>
+            <Folio>763585</Folio>
+            <FchEmis>2019-01-04</FchEmis>
+            <IndTraslado>1</IndTraslado>
+            <FmaPago>2</FmaPago>
+            <FchVenc>2019-01-04</FchVenc>
+          </IdDoc>
+          <Emisor>
+            <RUTEmisor>96542490-3</RUTEmisor>
+            <RznSoc>TRECK S A</RznSoc>
+            <GiroEmis>Fábrica de Calzados de Seguridad</GiroEmis>
+            <Acteco>519000</Acteco>
+            <DirOrigen>Santa Rosa #5220</DirOrigen>
+            <CmnaOrigen>San Joaquin</CmnaOrigen>
+            <CiudadOrigen>Santiago</CiudadOrigen>
+          </Emisor>
+          <Receptor>
+            <RUTRecep>85956200-0</RUTRecep>
+            <RznSocRecep>Calvo Ingenieria  S.A.</RznSocRecep>
+            <GiroRecep>Acondicionamiento de Edificios</GiroRecep>
+            <Contacto>compras.electricas@calvoingenier</Contacto>
+            <DirRecep>cliente retira sala ventas Santiago</DirRecep>
+            <CmnaRecep>Santiago</CmnaRecep>
+            <CiudadRecep>Santiago</CiudadRecep>
+            <DirPostal>cliente retira sala ventas Santiago</DirPostal>
+            <CmnaPostal>Santiago</CmnaPostal>
+            <CiudadPostal>Santiago</CiudadPostal>
+          </Receptor>
+          <Totales>
+            <MntNeto>171000</MntNeto>
+            <MntExe>0</MntExe>
+            <TasaIVA>19.00</TasaIVA>
+            <IVA>32490</IVA>
+            <MntTotal>203490</MntTotal>
+          </Totales>
+        </Encabezado>
+        <Detalle>
+          <NroLinDet>1</NroLinDet>
+          <CdgItem>
+            <TpoCodigo>QBLI</TpoCodigo>
+            <VlrCodigo>07-01-098-T-T41</VlrCodigo>
+          </CdgItem>
+          <NmbItem>Botin V9 Cementado Eva/Caucho Composi</NmbItem>
+          <DscItem>Botin V9 Cementado Eva/Caucho Composita T - T41</DscItem>
+          <QtyItem>2.000000</QtyItem>
+          <PrcItem>28500.000000</PrcItem>
+          <MontoItem>57000</MontoItem>
+        </Detalle>
+        <Detalle>
+          <NroLinDet>2</NroLinDet>
+          <CdgItem>
+            <TpoCodigo>QBLI</TpoCodigo>
+            <VlrCodigo>07-01-098-T-T42</VlrCodigo>
+          </CdgItem>
+          <NmbItem>Botin V9 Cementado Eva/Caucho Composi</NmbItem>
+          <DscItem>Botin V9 Cementado Eva/Caucho Composita T - T42</DscItem>
+          <QtyItem>2.000000</QtyItem>
+          <PrcItem>28500.000000</PrcItem>
+          <MontoItem>57000</MontoItem>
+        </Detalle>
+        <Detalle>
+          <NroLinDet>3</NroLinDet>
+          <CdgItem>
+            <TpoCodigo>QBLI</TpoCodigo>
+            <VlrCodigo>07-01-098-T-T43</VlrCodigo>
+          </CdgItem>
+          <NmbItem>Botin V9 Cementado Eva/Caucho Composi</NmbItem>
+          <DscItem>Botin V9 Cementado Eva/Caucho Composita T - T43</DscItem>
+          <QtyItem>2.000000</QtyItem>
+          <PrcItem>28500.000000</PrcItem>
+          <MontoItem>57000</MontoItem>
+        </Detalle>
+        <Referencia>
+          <NroLinRef>1</NroLinRef>
+          <TpoDocRef>801</TpoDocRef>
+          <FolioRef>31032</FolioRef>
+          <FchRef>2019-01-04</FchRef>
+        </Referencia>
+        <TED version="1.0">
+          <DD>
+            <RE>96542490-3</RE>
+            <TD>52</TD>
+            <F>763585</F>
+            <FE>2019-01-04</FE>
+            <RR>85956200-0</RR>
+            <RSR>Calvo Ingenieria  S.A.</RSR>
+            <MNT>203490</MNT>
+            <IT1>Botin V9 Cementado Eva/Caucho Composi</IT1>
+            <CAF version="1.0">
+              <DA>
+                <RE>96542490-3</RE>
+                <RS>TRECK S A</RS>
+                <TD>52</TD>
+                <RNG>
+                  <D>760001</D>
+                  <H>810000</H>
+                </RNG>
+                <FA>2016-02-03</FA>
+                <RSAPK>
+                  <M>uoql5rpVz42y6n8UtXDb+cS/XPhL66SjvfmhIMwbHC+8n8RuDNa5fDI4aHjvgBtMPOk+KWmf/+17bK/rZWN3uQ==</M>
+                  <E>Aw==</E>
+                </RSAPK>
+                <IDK>300</IDK>
+              </DA>
+              <FRMA algoritmo="SHA1withRSA">Qe3rJqNuuKzZ6lIYimqY3PYueoCCTLmERCzOGZ9qOzAmGnpWvXPK8/7QNuyueGe/HAFKWXPreLIkVfukLdzqNQ==</FRMA>
+            </CAF>
+            <TSTED>2019-01-04T17:28:02</TSTED>
+          </DD>
+          <FRMT algoritmo="SHA1withRSA">XX1rU/mtQVt/dFHYWQo12eE/WcxL671EJtV2AhWkMIBwOVfUgxFa4Rig+p1aUbBYZ32OE73dWEhX1kH68l4HGw==</FRMT>
+        </TED>
+        <TmstFirma>2019-01-04T17:28:04</TmstFirma>
+      </Documento><Signature xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI="#F763585T52"><Transforms><Transform Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>OkEDcQf5P+Ds1N+0Cc67YnYUAXg=</DigestValue></Reference></SignedInfo><SignatureValue>
+adNONectR9460uvrKHjPCmIWtU/CNB6hEBSSbgqFsZ9/rIBKCUbAe1zN/2Mv4jhN
+zEkidhIwBFYaycjzZWQnU8l2PQqXJ25t195qCu8BMMmcORjvq6pFrcEx4IawfkvH
+X9AnNaNI670Ew0tvxSEqUTXV8YJU5dIF30tJ9HPfZBA=
+</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>
+wOzlu2n00Q6OFOK+MS+saHHbINsooPh82uYFxx3WKPivbHYSicnRzxXFMieweuJr
+9Gb/mpsMro3xdpNPTX0yJAdnql4UAV9VA5ehBIAarAKzDD4FGkOKJTebYptBPVd5
+CURPVcSL3TVPsZM7ki05ChqSDG5VvqNdL1oz88RNTSM=
+</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>
+MIIGcDCCBVigAwIBAgIKToy/OwAAAARGQTANBgkqhkiG9w0BAQUFADCB0jELMAkG
+A1UEBhMCQ0wxHTAbBgNVBAgTFFJlZ2lvbiBNZXRyb3BvbGl0YW5hMREwDwYDVQQH
+EwhTYW50aWFnbzEUMBIGA1UEChMLRS1DRVJUQ0hJTEUxIDAeBgNVBAsTF0F1dG9y
+aWRhZCBDZXJ0aWZpY2Fkb3JhMTAwLgYDVQQDEydFLUNFUlRDSElMRSBDQSBGSVJN
+QSBFTEVDVFJPTklDQSBTSU1QTEUxJzAlBgkqhkiG9w0BCQEWGHNjbGllbnRlc0Bl
+LWNlcnRjaGlsZS5jbDAeFw0xNjA3MDYxODQ3MzVaFw0xOTA3MDYxODQ3MzVaMIHz
+MQswCQYDVQQGEwJDTDEjMCEGA1UECBMaTUVUUk9QT0xJVEFOQSBERSBTQU5USUFH
+TyAxETAPBgNVBAcTCFNhbnRpYWdvMREwDwYDVQQKEwhUcmVjayBTQTFEMEIGA1UE
+CxM7RmFicmljYSBkZSBDYWx6YWRvcyBlIGltcG9ydGFjaW9uIGRlIGFydGljdWxv
+cyBkZSBzZWd1cmlkYWQxKjAoBgNVBAMTIVNlYmFzdGlhbiBQZWRybyBSb2RpbGxv
+ICBIYWZlbWFubjEnMCUGCSqGSIb3DQEJARYYZnJhbmNpc2NvLnByYWRvQHRyZWNr
+LmNsMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDA7OW7afTRDo4U4r4xL6xo
+cdsg2yig+Hza5gXHHdYo+K9sdhKJydHPFcUyJ7B64mv0Zv+amwyujfF2k09NfTIk
+B2eqXhQBX1UDl6EEgBqsArMMPgUaQ4olN5tim0E9V3kJRE9VxIvdNU+xkzuSLTkK
+GpIMblW+o10vWjPzxE1NIwIDAQABo4ICpzCCAqMwPQYJKwYBBAGCNxUHBDAwLgYm
+KwYBBAGCNxUIgtyDL4WTjGaF1Z0XguLcJ4Hv7DxhgZrnFYav4BUCAWQCAQQwHQYD
+VR0OBBYEFDF8TEAJqQPCk1MUlIsp1q9Sw/F3MAsGA1UdDwQEAwIE8DAfBgNVHSME
+GDAWgBR44T6f0hKzejyNzTAOU7NDKQezVTA+BgNVHR8ENzA1MDOgMaAvhi1odHRw
+Oi8vY3JsLmUtY2VydGNoaWxlLmNsL2VjZXJ0Y2hpbGVjYUZFUy5jcmwwOgYIKwYB
+BQUHAQEELjAsMCoGCCsGAQUFBzABhh5odHRwOi8vb2NzcC5lY2VydGNoaWxlLmNs
+L29jc3AwIwYDVR0RBBwwGqAYBggrBgEEAcEBAaAMFgowNDc3OTI0OS01MCMGA1Ud
+EgQcMBqgGAYIKwYBBAHBAQKgDBYKOTY5MjgxODAtNTCCAU0GA1UdIASCAUQwggFA
+MIIBPAYIKwYBBAHDUgUwggEuMC0GCCsGAQUFBwIBFiFodHRwOi8vd3d3LmUtY2Vy
+dGNoaWxlLmNsL0NQUy5odG0wgfwGCCsGAQUFBwICMIHvHoHsAEMAZQByAHQAaQBm
+AGkAYwBhAGQAbwAgAEYAaQByAG0AYQAgAFMAaQBtAHAAbABlAC4AIABIAGEAIABz
+AGkAZABvACAAdgBhAGwAaQBkAGEAZABvACAAZQBuACAAZgBvAHIAbQBhACAAcABy
+AGUAcwBlAG4AYwBpAGEAbAAsACAAcQB1AGUAZABhAG4AZABvACAAaABhAGIAaQBs
+AGkAdABhAGQAbwAgAGUAbAAgAEMAZQByAHQAaQBmAGkAYwBhAGQAbwAgAHAAYQBy
+AGEAIAB1AHMAbwAgAHQAcgBpAGIAdQB0AGEAcgBpAG8wDQYJKoZIhvcNAQEFBQAD
+ggEBAJnq4sCtvhPdfp4dOs3IsO+MsA9EjnGkv3HIPfzXk41yfTcIyGfyzu5++Mdy
+vPiSFClVmXCXNZJ+isS+G6r1s7aoMkN1PzyNUJSfihetNEKjNxHPLmwvl9+6IeZY
+Fbsyjm7C+pql19+wMm0PdWxjOcbTzUj1q6FIre2gfyRTgOFPxt0Lf935Tmawr8Wu
+UQPDU9gJKWn0hcp/s9n9btCieXXQrRSFe74fRUwEWPc01f+Kk9wLrqYDEqxFrxbt
+EqcEYZJTKiQKh4lk2w9fVPo0+xbn5BMOk5XFmcni0NnAqUMlc00BrIbXzPS8aGde
+KjRcSQXW/S1tFp7q8SGJEm1H3/g=
+</X509Certificate></X509Data></KeyInfo></Signature>
+    </DTE></SetDTE><Signature xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI="#ID96542490-3__1__52__763585"><Transforms><Transform Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>PdS32pxnU3vfiHUdm+MwSSHYCIo=</DigestValue></Reference></SignedInfo><SignatureValue>
+XFaauVFNfA+8Gsrw4VNXWvI7LmKVui58Rdsi56BJrCeyHYmj229Vt3oE5CSotohw
+/Fg8Aa5V7+jz9Mue5eSsHtnB6lFVxxfbvtuuh99wEQpgoCx0DLmb4b0/i5UQGYmG
+51uf/AgvdWuwoZntiIDzIOLKTSQu/NlACLfR/NtD5HU=
+</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>
+pNci5AbduPBP7Bc36DAaicMVoTXwPQ6b1vvHKXZ2iZH/qiq3+a0fe5SFPzF+Yerp
+7u5n+gYwfzziTA4sQip2A5BXg3QAvY2Lt+nAaCOs0z3lHFPps7pPQ+7bp7AbSASo
+napBUhfFqdMZ7P3e6IAfTXdCOe7abupbfPJaT+fOEXk=
+</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>
+MIIGbDCCBVSgAwIBAgIKdjB7JwAAAAuxQTANBgkqhkiG9w0BAQUFADCB0jELMAkG
+A1UEBhMCQ0wxHTAbBgNVBAgTFFJlZ2lvbiBNZXRyb3BvbGl0YW5hMREwDwYDVQQH
+EwhTYW50aWFnbzEUMBIGA1UEChMLRS1DRVJUQ0hJTEUxIDAeBgNVBAsTF0F1dG9y
+aWRhZCBDZXJ0aWZpY2Fkb3JhMTAwLgYDVQQDEydFLUNFUlRDSElMRSBDQSBGSVJN
+QSBFTEVDVFJPTklDQSBTSU1QTEUxJzAlBgkqhkiG9w0BCQEWGHNjbGllbnRlc0Bl
+LWNlcnRjaGlsZS5jbDAeFw0xODA4MDIxMzUwMTdaFw0yMTA4MDExMzUwMTdaMIHt
+MQswCQYDVQQGEwJDTDEiMCAGA1UECBMZTUVUUk9QT0xJVEFOQSBERSBTQU5USUFH
+TzERMA8GA1UEBxMIU2FudGlhZ28xJjAkBgNVBAoTHVNvdXRoIENvbnN1bHRpbmcg
+U2lnbmF0dXJlIFNBMSIwIAYDVQQLExlBdiBWaXRhY3VyYSAyNjcwIDZ0byBQaXNv
+MScwJQYDVQQDEx5NYXJpbyBBdWd1c3RvIEZlcm5hbmRleiBDdWVzdGExMjAwBgkq
+hkiG9w0BCQEWI21hcmlvLmZlcm5hbmRlekBzb3V0aGNvbnN1bHRpbmcuY29tMIGf
+MA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCk1yLkBt248E/sFzfoMBqJwxWhNfA9
+DpvW+8cpdnaJkf+qKrf5rR97lIU/MX5h6unu7mf6BjB/POJMDixCKnYDkFeDdAC9
+jYu36cBoI6zTPeUcU+mzuk9D7tunsBtIBKidqkFSF8Wp0xns/d7ogB9Nd0I57tpu
+6lt88lpP584ReQIDAQABo4ICqTCCAqUwggFPBgNVHSAEggFGMIIBQjCCAT4GCCsG
+AQQBw1IFMIIBMDAtBggrBgEFBQcCARYhaHR0cDovL3d3dy5lLWNlcnRjaGlsZS5j
+bC9DUFMuaHRtMIH+BggrBgEFBQcCAjCB8R6B7gBFAGwAIAByAGUAcwBwAG8AbgBk
+AGUAcgAgAGUAcwB0AGUAIABmAG8AcgBtAHUAbABhAHIAaQBvACAAZQBzACAAdQBu
+ACAAcgBlAHEAdQBpAHMAaQB0AG8AIABpAG4AZABpAHMAcABlAG4AcwBhAGIAbABl
+ACAAcABhAHIAYQAgAGQAYQByACAAaQBuAGkAYwBpAG8AIABhAGwAIABwAHIAbwBj
+AGUAcwBvACAAZABlACAAYwBlAHIAdABpAGYAaQBjAGEAYwBpAPMAbgAuACAAUABv
+AHMAdABlAHIAaQBvAHIAbQBlAG4AdABlACwwHQYDVR0OBBYEFHzmg5mTx7ZZ4XrV
+25jJ1jigC6GvMAsGA1UdDwQEAwIE8DAjBgNVHREEHDAaoBgGCCsGAQQBwQEBoAwW
+CjE0NjgxNTk2LTAwHwYDVR0jBBgwFoAUeOE+n9ISs3o8jc0wDlOzQykHs1UwPgYD
+VR0fBDcwNTAzoDGgL4YtaHR0cDovL2NybC5lLWNlcnRjaGlsZS5jbC9lY2VydGNo
+aWxlY2FGRVMuY3JsMDoGCCsGAQUFBwEBBC4wLDAqBggrBgEFBQcwAYYeaHR0cDov
+L29jc3AuZWNlcnRjaGlsZS5jbC9vY3NwMD0GCSsGAQQBgjcVBwQwMC4GJisGAQQB
+gjcVCILcgy+Fk4xmhdWdF4Li3CeB7+w8YYHLnhSGqIJYAgFkAgEEMCMGA1UdEgQc
+MBqgGAYIKwYBBAHBAQKgDBYKOTY5MjgxODAtNTANBgkqhkiG9w0BAQUFAAOCAQEA
+S6x47s+jcHmHj/4B7lY2alo4J+txLZLkIslYJGDiDhTMgB+z7lD3txCHsK4UXBq8
+wSqAho8UTfm8J3JFclFhxT2Fg/Loou8dp/sZhBW2wouYemp/z2EniyZPtSIw1oIn
++SI12mZJpjeJ0Tq9g3f54G0sYAh85fJ+M0DwlSW3MLpklSocZDVHlyZ/LA3DfgWt
+bfFI5ZfAMIcpNVgIjZ7YXkkYiCm7mXL7dBj031ZvB4sSxTqXTQbxRB123+w0HFNz
+9TMdX0PW5sKuiF6d1bJa+3CdiRHRqG/p6R+yFaEDeCQ58N7OX0BiMVxsnG15oOfE
+XIcCBKy16v+gsuheQHs2gA==
+</X509Certificate></X509Data></KeyInfo></Signature>
+  
+</EnvioDTE>
