@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<EnvioDTE xmlns="http://www.sii.cl/SiiDte" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0" xsi:schemaLocation="http://www.sii.cl/SiiDte EnvioDTE_v10.xsd">
+<SetDTE ID="EnvioDTE-76178360-2-85956200-0-20181228-052726-3FC6C06B">
+<Caratula version="1.0">
+<RutEmisor>76178360-2</RutEmisor>
+<RutEnvia>13272698-1</RutEnvia>
+<RutReceptor>85956200-0</RutReceptor>
+<FchResol>2006-10-30</FchResol>
+<NroResol>129</NroResol>
+<TmstFirmaEnv>2018-12-28T05:27:26</TmstFirmaEnv>
+<SubTotDTE>
+<TpoDTE>33</TpoDTE>
+<NroDTE>1</NroDTE>
+</SubTotDTE>
+</Caratula>
+<DTE xmlns="http://www.sii.cl/SiiDte" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
+      <Documento ID="T33F1069396">
+        <Encabezado>
+          <IdDoc>
+            <TipoDTE>33</TipoDTE>
+            <Folio>1069396</Folio>
+            <FchEmis>2018-12-27</FchEmis>
+          </IdDoc>
+          <Emisor>
+            <RUTEmisor>76178360-2</RUTEmisor>
+            <RznSoc>CENTRAL DE RESTAURANTES ARAMARK LIMITADA</RznSoc>
+            <GiroEmis>SERV DE COMIDAS PREPARADAS-ELAB. Y COM. DE PROD.ALIMENTICIOS-EXP.SERV.ASEO INDUS</GiroEmis>
+            <Acteco>749990</Acteco>
+            <DirOrigen>Avenida del Condor 760</DirOrigen>
+            <CmnaOrigen>Huechuraba</CmnaOrigen>
+            <CiudadOrigen>Santiago</CiudadOrigen>
+          </Emisor>
+          <Receptor>
+            <RUTRecep>85956200-0</RUTRecep>
+            <CdgIntRecep>20117</CdgIntRecep>
+            <RznSocRecep>CALVO CLIMATIZACION S.A.</RznSocRecep>
+            <GiroRecep>CLIMATIZACION</GiroRecep>
+            <Contacto></Contacto>
+            <DirRecep>LEON DE LA BARRA 9441</DirRecep>
+            <CmnaRecep>LO ESPEJO</CmnaRecep>
+            <CiudadRecep>SANTIAGO</CiudadRecep>
+          </Receptor>
+          <Totales>
+            <MntNeto>268908</MntNeto>
+            <TasaIVA>19</TasaIVA>
+            <IVA>51092</IVA>
+            <MntTotal>320000</MntTotal>
+          </Totales>
+        </Encabezado>
+        <Detalle>
+          <NroLinDet>1</NroLinDet>
+          <CdgItem>
+            <TpoCodigo>QBLI</TpoCodigo>
+            <VlrCodigo>1</VlrCodigo>
+          </CdgItem>
+          <NmbItem>SERVICIOS EN WATTS SAN</NmbItem>
+          <DscItem>SERVICIOS EN WATTS SAN</DscItem>
+          <UnmdItem></UnmdItem>
+          <MontoItem>268908</MontoItem>
+        </Detalle>
+        <Detalle>
+          <NroLinDet>2</NroLinDet>
+          <CdgItem>
+            <TpoCodigo></TpoCodigo>
+            <VlrCodigo></VlrCodigo>
+          </CdgItem>
+          <NmbItem>BERNARDO SEGUN GUIA DESPACHO #</NmbItem>
+          <DscItem>BERNARDO SEGUN GUIA DESPACHO #</DscItem>
+          <UnmdItem></UnmdItem>
+          <MontoItem>0</MontoItem>
+        </Detalle>
+        <Detalle>
+          <NroLinDet>3</NroLinDet>
+          <CdgItem>
+            <TpoCodigo></TpoCodigo>
+            <VlrCodigo></VlrCodigo>
+          </CdgItem>
+          <NmbItem>1298143</NmbItem>
+          <DscItem>1298143</DscItem>
+          <UnmdItem></UnmdItem>
+          <MontoItem>0</MontoItem>
+        </Detalle>
+        <Referencia>
+          <NroLinRef>1</NroLinRef>
+          <TpoDocRef>50</TpoDocRef>
+          <FolioRef>1298143</FolioRef>
+          <FchRef>2018-12-24</FchRef>
+          <RazonRef>FACTURACION GUIA CONTADO</RazonRef>
+        </Referencia>
+        <TED version="1.0">
+          <DD>
+            <RE>76178360-2</RE>
+            <TD>33</TD>
+            <F>1069396</F>
+            <FE>2018-12-27</FE>
+            <RR>85956200-0</RR>
+            <RSR>CALVO CLIMATIZACION S.A.</RSR>
+            <MNT>320000</MNT>
+            <IT1>SERVICIOS  EN WATTS SAN         </IT1>
+            <CAF version="1.0">
+              <DA>
+                <RE>76178360-2</RE>
+                <RS>CENTRAL DE RESTAURANTES ARAMARK LIMITADA</RS>
+                <TD>33</TD>
+                <RNG>
+                  <D>1065205</D>
+                  <H>1077204</H>
+                </RNG>
+                <FA>2018-11-26</FA>
+                <RSAPK>
+                  <M>wplYqHXdYwhcOP+PEjZ7KZmGSQmnMcKjZo19slQD7NH/Z+a7+pxSGKQjPG+uzRKf2OSpPrWFkiXfa2wByJ8hRw==</M>
+                  <E>Aw==</E>
+                </RSAPK>
+                <IDK>300</IDK>
+              </DA>
+              <FRMA algoritmo="SHA1withRSA">FGVLcUIaghf5Owh05Z8abTnhrP7LkIhdSekNnctmLW89Epf/T1ZSprPHu/wj1iRNG8FMMq5a1KvFAnOe9ROV/w==</FRMA>
+            </CAF>
+            <TSTED>2018-12-27T11:33:25</TSTED>
+          </DD>
+          <FRMT algoritmo="SHA1withRSA">S4JdxmGgJ6BSfIxSeK0wLteAKT8fxVIv6speMu0JJiCzi2/N3VYONZC1WPSow/dD2I79PK+6XulC
+Ppj2wabkAg==</FRMT>
+        </TED>
+        <TmstFirma>2018-12-27T11:33:25</TmstFirma>
+      </Documento>
+      <Signature xmlns="http://www.w3.org/2000/09/xmldsig#">
+	<SignedInfo>
+		<CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"></CanonicalizationMethod>
+		<SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"></SignatureMethod>
+		<Reference URI="#T33F1069396">
+			<DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></DigestMethod>
+			<DigestValue>Tqp8fDNWJkqjcutRONwssugpcyQ=</DigestValue>
+		</Reference>
+	</SignedInfo>
+	<SignatureValue>swtWu7T2aHBcAlzV0LdCey4QZC/fC38VNArgbHhAsSlk0RC++pY+/aWFEqLlE7anrUeupBnoeFTQ
+9D5gPIWmvYBJkUkZpYo5zK8Q1IYEWu7e9bOFxtPmQQ8D9I5PtTLPbYlaNvuxSVGcORgYSxTN/nkz
+aAqPEzTYtP7FB2WkWW9LZ1XLTowJPR8srvHQwnxWw8tJ8ZrbQT0B//vrG6Bma9O8Oz3PLeSvuObt
+kcsvp3qGFGKVtKHJx2ycG/nJvF6C2zgs3e9bJTeV/JsxLIPhLLcYi5+5iIuD3Z+beodByLkRHKee
+Z1cZ2ZPJNo6qTWap/atMfC/f/hjL+JAU6bwz6A==</SignatureValue>
+	<KeyInfo>
+		<KeyValue>
+			<RSAKeyValue>
+				<Modulus>8WDQ77W9YXbPurXuz/uK3fqi6IsYSX8i0bgyvZZHcluy4t00/n0K3CB8fZQcugDbgmRlaUHx6jei
+xaKjT4ZpJA6k60LDSijOyH9AgR5vM6DW/pKxHNkR5JaIodSAa5kICF71IdlWKU6DPYpSZN22Wnl6
+W/uuGjZRI6MPIqEoMCOF/hWFwDeC0kMDqFpmgajBSlzd1BJkydYE6ph80fipaUEvtkmzAK6KVANA
+xM8SZrMwmj7o55U+opeAv7tA6+Q5JJ1LUGYWgL18A8vCrA/qHRt/axeTpbLSYrq1aqe84emdqKY3
+C7Q4bZmsOBytkFF/B1eQ9mkDfAVQHFzC+s6FGQ==</Modulus>
+				<Exponent>AQAB</Exponent>
+			</RSAKeyValue>
+		</KeyValue>
+		<X509Data>
+			<X509Certificate>MIIGeTCCBWGgAwIBAgIDAoKkMA0GCSqGSIb3DQEBCwUAMIGmMQswCQYDVQQGEwJDTDEYMBYGA1UE
+ChMPQWNlcHRhLmNvbSBTLkEuMUgwRgYDVQQDEz9BY2VwdGEuY29tIEF1dG9yaWRhZCBDZXJ0aWZp
+Y2Fkb3JhIENsYXNlIDIgUGVyc29uYSBOYXR1cmFsIC0gRzQxHjAcBgkqhkiG9w0BCQEWD2luZm9A
+YWNlcHRhLmNvbTETMBEGA1UEBRMKOTY5MTkwNTAtODAeFw0xODA5MTIxMjU4NDFaFw0yMDA5MTIx
+MjU4NDFaMIGLMQswCQYDVQQGEwJDTDEYMBYGA1UEDBMPUEVSU09OQSBOQVRVUkFMMSMwIQYDVQQD
+ExpNT05JQ0EgQU5EUkVBIEFSQVZFTkEgQkFFWjEoMCYGCSqGSIb3DQEJARYZQVJBVkVOQS1NT05J
+Q0FAQVJBTUFSSy5DTDETMBEGA1UEBRMKMTAzNDAyODgtMzCCASIwDQYJKoZIhvcNAQEBBQADggEP
+ADCCAQoCggEBAPFg0O+1vWF2z7q17s/7it36ouiLGEl/ItG4Mr2WR3JbsuLdNP59CtwgfH2UHLoA
+24JkZWlB8eo3osWio0+GaSQOpOtCw0oozsh/QIEebzOg1v6SsRzZEeSWiKHUgGuZCAhe9SHZVilO
+gz2KUmTdtlp5elv7rho2USOjDyKhKDAjhf4VhcA3gtJDA6haZoGowUpc3dQSZMnWBOqYfNH4qWlB
+L7ZJswCuilQDQMTPEmazMJo+6OeVPqKXgL+7QOvkOSSdS1BmFoC9fAPLwqwP6h0bf2sXk6Wy0mK6
+tWqnvOHpnaimNwu0OG2ZrDgcrZBRfwdXkPZpA3wFUBxcwvrOhRkCAwEAAaOCAscwggLDMB8GA1Ud
+IwQYMBaAFGWlqz4/yLZRbRF+X8MKB+ZDoAi2MB0GA1UdDgQWBBTMnUyST+LoCYbOnvHoyuktC0MZ
++jALBgNVHQ8EBAMCBPAwHQYDVR0lBBYwFAYIKwYBBQUHAwIGCCsGAQUFBwMEMBEGCWCGSAGG+EIB
+AQQEAwIFoDCB9QYDVR0gBIHtMIHqMIHnBggrBgEEAbVrAjCB2jAxBggrBgEFBQcCARYlaHR0cHM6
+Ly9hY2c0LmFjZXB0YS5jb20vQ1BTLUFjZXB0YWNvbTCBpAYIKwYBBQUHAgIwgZcwFhYPQWNlcHRh
+LmNvbSBTLkEuMAMCAQkafUVsIHRpdHVsYXIgaGEgc2lkbyB2YWxpZGFkbyBlbiBmb3JtYSBvbmxp
+bmUsIHF1ZWRhbmRvIGhhYmlsaXRhZG8gZWwgQ2VydGlmaWNhZG8gcGFyYSB1c28gdHJpYnV0YXJp
+bywgcGFnb3MsIGNvbWVyY2lvIHkgb3Ryb3MuMFoGA1UdEgRTMFGgGAYIKwYBBAHBAQKgDBYKOTY5
+MTkwNTAtOKAkBggrBgEFBQcIA6AYMBYMCjk2OTE5MDUwLTgGCCsGAQQBwQECgQ9pbmZvQGFjZXB0
+YS5jb20wZAYDVR0RBF0wW6AYBggrBgEEAcEBAaAMFgoxMDM0MDI4OC0zoCQGCCsGAQUFBwgDoBgw
+FgwKMTAzNDAyODgtMwYIKwYBBAHBAQKBGUFSQVZFTkEtTU9OSUNBQEFSQU1BUksuQ0wwRwYIKwYB
+BQUHAQEEOzA5MDcGCCsGAQUFBzABhitodHRwczovL2FjZzQuYWNlcHRhLmNvbS9hY2c0L29jc3Av
+Q2xhc2UyLUc0MD8GA1UdHwQ4MDYwNKAyoDCGLmh0dHBzOi8vYWNnNC5hY2VwdGEuY29tL2FjZzQv
+Y3JsL0NsYXNlMi1HNC5jcmwwDQYJKoZIhvcNAQELBQADggEBABhyXjtMREMkJfaIo10RDjVBQo8M
+Kd0YJ8v2NgrnLlGxj0ty3llnHS84e6BEUX6iDoeCtDMz7gqPFqltsuk/4DUX7ERvx26Sxvqaq+Ek
+19KScHYlOyFpMxQwX6PmIwJdDRMFmwerkwhxpWWT3JJdlJ4qoam4g6iJxgY9hF4mwVTwIyG7wRFW
+VNxMeMUkd0gBocs4FwM9Sb8iqmldd4ohIomA/HMKe5gwxVZ8m+gxmuSCi3lXtoigikKoso287TUG
+FlvveeZkLXm8AHwN9Ncku8TCFA6Cpg5PlzzuLz+T13WaOOho5CCqLmOvIzLdrnQGQkLXRvdSlV0S
+Eikkm+d3Vzo=</X509Certificate>
+		</X509Data>
+	</KeyInfo>
+</Signature>
+    </DTE></SetDTE>
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"></CanonicalizationMethod><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"></SignatureMethod><Reference URI="#EnvioDTE-76178360-2-85956200-0-20181228-052726-3FC6C06B"><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></DigestMethod><DigestValue>/Kw4C1gKhjGFVoCH/VAacsXXttc=</DigestValue></Reference></SignedInfo><SignatureValue>I5phGNtF9Q9KC61NBtJxlZ2llHu5Vk5WzrtpSq8y7A3B/g6pFphM55WLlpE9iwDq8LMv6Rsg4XMq
+iOMacDpqqg+Rpc1OGfCAEtznrQf2DWZrhisrG8FpGy3V7MMy9NtBifDXPgXA4yXi2+Max1elqvFD
+yv1/5CyXco7O/jxX/iI9iWpnBVF8F4v2yX29e+NWSnZVm/VnHd0yGtwMUkHeumW91orxLFhc0GaO
+S7ivvMo+x9Ok1Yrsp2cOWddMmLR1nKVZnqNLRWc9hS7zFsEwbt77A+9iDz0eRZxMngtXNVQvVJaf
+QnKVdj/0GpEY1nf34rsJ7YMil0OR3NHDg2aeLg==</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>vFcAcV5gfBmNMdyqYl+0VI6s76wCAwbI6PWMZaGglaFhYYd3shhCGIBU4gtv0AbNiqi44RnRwTkD
+VvJ4m9JcU9LrWkv1Ed9yTsAE321eZpoUYfYwNsQ4N/DJlKP6UlqDHBtGT6UDPGcOK/2GJC8iIzk7
+NF1izi1hHJN7upXa2TfO07+8AIW7AtcQJ7GqjN6YA1jXirVMycYjQYUjeGOfoo7GbNzYE3nvHqvc
+4coT2MKbg5Q4vUaI9JQikkf7ymHqOt1XWXc3EbqqSWDnWmscfiH4qPSyLcLtrtOak0dJFGyPgdhU
+HJf/C4frHEpIB4SZaopra1NCRLcTtoiX6YBrCw==</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIF9zCCBN+gAwIBAgIBEzANBgkqhkiG9w0BAQsFADCBpjELMAkGA1UEBhMCQ0wxGDAWBgNVBAoT
+D0FjZXB0YS5jb20gUy5BLjFIMEYGA1UEAxM/QWNlcHRhLmNvbSBBdXRvcmlkYWQgQ2VydGlmaWNh
+ZG9yYSBDbGFzZSAyIFBlcnNvbmEgTmF0dXJhbCAtIEc0MR4wHAYJKoZIhvcNAQkBFg9pbmZvQGFj
+ZXB0YS5jb20xEzARBgNVBAUTCjk2OTE5MDUwLTgwHhcNMTYxMDA3MTgzMjQwWhcNMTkxMDA3MTgz
+MjQwWjCBizELMAkGA1UEBhMCQ0wxGDAWBgNVBAwTD1BFUlNPTkEgTkFUVVJBTDEiMCAGA1UEAxMZ
+QUxWQVJPIEdPTlpBTEVaIFJJRURFTUFOTjEpMCcGCSqGSIb3DQEJARYaYWx2YXJvLmdvbnphbGV6
+QGFjZXB0YS5jb20xEzARBgNVBAUTCjEzMjcyNjk4LTEwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAw
+ggEKAoIBAQC8VwBxXmB8GY0x3KpiX7RUjqzvrAIDBsjo9YxloaCVoWFhh3eyGEIYgFTiC2/QBs2K
+qLjhGdHBOQNW8nib0lxT0utaS/UR33JOwATfbV5mmhRh9jA2xDg38MmUo/pSWoMcG0ZPpQM8Zw4r
+/YYkLyIjOTs0XWLOLWEck3u6ldrZN87Tv7wAhbsC1xAnsaqM3pgDWNeKtUzJxiNBhSN4Y5+ijsZs
+3NgTee8eq9zhyhPYwpuDlDi9Roj0lCKSR/vKYeo63VdZdzcRuqpJYOdaaxx+Ifio9LItwu2u05qT
+R0kUbI+B2FQcl/8Lh+scSkgHhJlqimtrU0JEtxO2iJfpgGsLAgMBAAGjggJHMIICQzAfBgNVHSME
+GDAWgBRlpas+P8i2UW0Rfl/DCgfmQ6AItjAdBgNVHQ4EFgQUyh2fhOBhnlVGwTznOvB+y2tHmgkw
+CwYDVR0PBAQDAgTwMB0GA1UdJQQWMBQGCCsGAQUFBwMCBggrBgEFBQcDBDARBglghkgBhvhCAQEE
+BAMCBaAwdQYDVR0gBG4wbDBqBggrBgEEAbVrAjBeMDEGCCsGAQUFBwIBFiVodHRwczovL2FjZzQu
+YWNlcHRhLmNvbS9DUFMtQWNlcHRhY29tMCkGCCsGAQUFBwICMB0wFhYPQWNlcHRhLmNvbSBTLkEu
+MAMCAQkaA1RCRDBaBgNVHRIEUzBRoBgGCCsGAQQBwQECoAwWCjk2OTE5MDUwLTigJAYIKwYBBQUH
+CAOgGDAWDAo5NjkxOTA1MC04BggrBgEEAcEBAoEPaW5mb0BhY2VwdGEuY29tMGUGA1UdEQReMFyg
+GAYIKwYBBAHBAQGgDBYKMTMyNzI2OTgtMaAkBggrBgEFBQcIA6AYMBYMCjEzMjcyNjk4LTEGCCsG
+AQQBwQECgRphbHZhcm8uZ29uemFsZXpAYWNlcHRhLmNvbTBHBggrBgEFBQcBAQQ7MDkwNwYIKwYB
+BQUHMAGGK2h0dHBzOi8vYWNnNC5hY2VwdGEuY29tL2FjZzQvb2NzcC9DbGFzZTItRzQwPwYDVR0f
+BDgwNjA0oDKgMIYuaHR0cHM6Ly9hY2c0LmFjZXB0YS5jb20vYWNnNC9jcmwvQ2xhc2UyLUc0LmNy
+bDANBgkqhkiG9w0BAQsFAAOCAQEAvlrMZ25rD567BX60SPygz2pc4d8JmbRbkCZsG8BJK+/SxIcr
+lS5osKMD2rxYGKMlSiL1By/+qT0gxF4FP7z1z034rKDmpNlqu+N6VxTYMQKE6bsihu4/a0Gqt7vS
+SIcRMpaXLJqKyuThyDTH7z5n59mZ/W+LUuKZ6OKMnMBLvE4cEZyZqFLVSdqaCxtu/jfxKRH6RYpj
+Y2+/NXf5S1ilN2BYooZilfPLxY8m649q3UxxCrFhOMazp8UlrOqF6veXva4ae11Pl3RCvkmf+H2F
+VUB/PM7S9kptQsHzrjQZt3LpyswMg5qUpWj5mHLcXKKlZYOlfNFpoeIW+D8pgi1hMg==</X509Certificate></X509Data></KeyInfo></Signature></EnvioDTE>

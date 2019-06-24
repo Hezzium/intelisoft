@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<EnvioDTE xmlns="http://www.sii.cl/SiiDte" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0" xsi:schemaLocation="http://www.sii.cl/SiiDte EnvioDTE_v10.xsd">
+<SetDTE ID="EnvioDTE-76309127-9-85956200-0-20181228-142406-0F8BA525">
+<Caratula version="1.0">
+<RutEmisor>76309127-9</RutEmisor>
+<RutEnvia>5544700-4</RutEnvia>
+<RutReceptor>85956200-0</RutReceptor>
+<FchResol>2014-03-31</FchResol>
+<NroResol>31</NroResol>
+<TmstFirmaEnv>2018-12-28T14:24:06</TmstFirmaEnv>
+<SubTotDTE>
+<TpoDTE>33</TpoDTE>
+<NroDTE>1</NroDTE>
+</SubTotDTE>
+</Caratula>
+<DTE xmlns="http://www.sii.cl/SiiDte" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">		<Documento ID="EMI763091279F5262T33">
+			<Encabezado>
+				<IdDoc>
+					<TipoDTE>33</TipoDTE>
+					<Folio>5262</Folio>
+					<FchEmis>2018-12-28</FchEmis>
+					<MntPagos>
+						<FchPago>2019-03-28</FchPago>
+						<MntPago>529252</MntPago>
+						<GlosaPagos></GlosaPagos>
+					</MntPagos>
+					<MntPagos>
+						<FchPago>2019-02-26</FchPago>
+						<MntPago>529253</MntPago>
+						<GlosaPagos></GlosaPagos>
+					</MntPagos>
+					<MntPagos>
+						<FchPago>2019-01-27</FchPago>
+						<MntPago>529252</MntPago>
+						<GlosaPagos></GlosaPagos>
+					</MntPagos>
+					<MntPagos>
+						<FchPago>2018-12-28</FchPago>
+						<MntPago>529253</MntPago>
+						<GlosaPagos></GlosaPagos>
+					</MntPagos>
+					<TermPagoGlosa>Contado y crédito 30/60/90 días         </TermPagoGlosa>
+					<FchVenc>2018-12-28</FchVenc>
+				</IdDoc>
+				<Emisor>
+					<RUTEmisor>76309127-9</RUTEmisor>
+					<RznSoc>DAIKIN AIRCONDITIONING CHILE S.A.</RznSoc>
+					<GiroEmis>IMPORT.EXPOR.Y COMERCIALIZACION DE EQUIPOS DE REFR.Y AIRE ACONDICIONAD</GiroEmis>
+					<Telefono>+56-97-518-4542</Telefono>
+					<Acteco>469000</Acteco>
+					<DirOrigen>OJOS DEL SALADO 0801,  Comuna QUILICURA</DirOrigen>
+					<CmnaOrigen>QUILICURA</CmnaOrigen>
+					<CdgVendedor>11352053-1</CdgVendedor>
+				</Emisor>
+				<Receptor>
+					<RUTRecep>85956200-0</RUTRecep>
+					<RznSocRecep>CALVO INGENIERIA S.A.</RznSocRecep>
+					<GiroRecep>AIRE ACONDICIONADO</GiroRecep>
+					<Contacto>.NICOLAS MERINO , Fono .56950742021</Contacto>
+					<CorreoRecep>.,rodolfo.debonnafos@csenergy.cl</CorreoRecep>
+					<DirRecep>LEON DE LA BARRA 9441</DirRecep>
+					<CmnaRecep>LO ESPEJO</CmnaRecep>
+					<CiudadRecep></CiudadRecep>
+				</Receptor>
+				<Transporte>
+					<DirDest>.LEON DE LA BARRA 9441, LO ESPEJO</DirDest>
+				</Transporte>
+				<Totales>
+					<MntNeto>1779000</MntNeto>
+					<TasaIVA>19.00</TasaIVA>
+					<IVA>338010</IVA>
+					<MntTotal>2117010</MntTotal>
+				</Totales>
+			</Encabezado>
+			<Detalle>
+				<NroLinDet>1</NroLinDet>
+				<CdgItem>
+					<TpoCodigo>INTERNO</TpoCodigo>
+					<VlrCodigo>UATYP60AGXY19</VlrCodigo>
+				</CdgItem>
+				<NmbItem>ROOFTOP PACKAGED R407C NO INV</NmbItem>
+				<QtyItem>1.000000</QtyItem>
+				<PrcItem>1779000.000000</PrcItem>
+				<MontoItem>1779000</MontoItem>
+			</Detalle>
+			<Referencia>
+				<NroLinRef>1</NroLinRef>
+				<TpoDocRef>801</TpoDocRef>
+				<FolioRef>30988</FolioRef>
+				<FchRef>2018-12-26</FchRef>
+			</Referencia>
+			<TED version="1.0">
+				<DD>
+					<RE>76309127-9</RE>
+					<TD>33</TD>
+					<F>5262</F>
+					<FE>2018-12-28</FE>
+					<RR>85956200-0</RR>
+					<RSR>CALVO INGENIERIA S.A.</RSR>
+					<MNT>2117010</MNT>
+					<IT1>ROOFTOP PACKAGED R407C NO INV</IT1>
+					<CAF version="1.0">
+						<DA>
+							<RE>76309127-9</RE>
+							<RS>DAIKIN AIRCONDITIONING CHILE S.A.</RS>
+							<TD>33</TD>
+							<RNG>
+								<D>5240</D>
+								<H>5739</H>
+							</RNG>
+							<FA>2018-12-18</FA>
+							<RSAPK>
+								<M>rTvmY9pbnTOSFHTUupfPJBC1tacpTbZqnNUKn6tfbXzJ0Rmpk2Aidr+jNBq2T2bQ+ozZYghcFUukRcXiFnTp5Q==</M>
+								<E>Aw==</E>
+							</RSAPK>
+							<IDK>300</IDK>
+						</DA>
+						<FRMA algoritmo="SHA1withRSA">mcnEigMQBILPM20uDdBAL+tdggeYZHsQnOIhTWJM9piqLxH9ZDaOiAiUk7OfTCVqlgg/JGGenSRqLqFgcAv+9Q==</FRMA>
+					</CAF>
+					<TSTED>2018-12-28T14:16:48</TSTED>
+				</DD>
+				<FRMT algoritmo="SHA1withRSA">AWorbQfe1RAlImq4MemybAcOTWT+eniOgrwhpxhk6k1p1qt8yCmd242GSnjiXyvMAZhnCddUBG1R8jT/ruP8xw==</FRMT>
+			</TED>
+			<TmstFirma>2018-12-28T14:16:48</TmstFirma>
+		</Documento>
+		<Signature xmlns="http://www.w3.org/2000/09/xmldsig#">
+			<SignedInfo>
+				<CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"></CanonicalizationMethod>
+				<SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"></SignatureMethod>
+				<Reference URI="#EMI763091279F5262T33">
+					<DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></DigestMethod>
+					<DigestValue>M1iObPdj5aB5tax0h3rQzK0y1kk=</DigestValue>
+				</Reference>
+			</SignedInfo>
+			<SignatureValue>QdR646UKKr7I+pFAv8++D0itEmgYoGO3SClSW9CioYkROeXGW+4V2UtCELKnWfqGLaLNmkQXCEWX
+elziCpNQYWYGlcehcHjaIkdpgxRapd4kBH9zfXB7399VbpqsNkhWNuYOCTToOoUTQIf/SSfz0Wc4
+JuYpOWPWW2W0TgO9kPc=</SignatureValue>
+			<KeyInfo>
+				<KeyValue>
+					<RSAKeyValue>
+						<Modulus>yGPomg9j7W+mb0X4khpGGA+SN6aOhGU2UK8rpxb05HCoVjyc1lBXWkQJaDRaxUdCHvtKvmaoiKQJ
+/Ynbg4xMdT+XxTti5UZjoMZ5+n0uo6ANVc4w/q/WbWakv99VdIujppk7+KcWe+hUJ5VrmZCyvRpr
+3s3vyh97sKPPw+UzoXk=</Modulus>
+						<Exponent>AQAB</Exponent>
+					</RSAKeyValue>
+				</KeyValue>
+				<X509Data>
+					<X509Certificate>MIIGkjCCBXqgAwIBAgIKbTh0BAAAAAmzezANBgkqhkiG9w0BAQUFADCB0jELMAkGA1UEBhMCQ0wx
+HTAbBgNVBAgTFFJlZ2lvbiBNZXRyb3BvbGl0YW5hMREwDwYDVQQHEwhTYW50aWFnbzEUMBIGA1UE
+ChMLRS1DRVJUQ0hJTEUxIDAeBgNVBAsTF0F1dG9yaWRhZCBDZXJ0aWZpY2Fkb3JhMTAwLgYDVQQD
+EydFLUNFUlRDSElMRSBDQSBGSVJNQSBFTEVDVFJPTklDQSBTSU1QTEUxJzAlBgkqhkiG9w0BCQEW
+GHNjbGllbnRlc0BlLWNlcnRjaGlsZS5jbDAeFw0xODAxMDUxODA0MzVaFw0yMTAxMDQxODA0MzVa
+MIIBEjELMAkGA1UEBhMCQ0wxIzAhBgNVBAgTGk1FVFJPUE9MSVRBTkEgREUgU0FOVElBR08gMREw
+DwYDVQQHEwhTYW50aWFnbzEqMCgGA1UEChMhRGFpa2luIEFpcmNvbmRpdGlvbmluZyBDaGlsZSBT
+LkEgMUkwRwYDVQQLE0BJTVBPUlQuRVhQT1IuWSBDT01FUkNJQUxJWkFDSU9OIERFIEVRVUlQT1Mg
+REUgUkVGUi5ZIEFJUkUgQUNPTkRJMSUwIwYDVQQDExxKdWxpbyBDZXNhciBBbG1vbmFjaWQgVG9y
+cmVzMS0wKwYJKoZIhvcNAQkBFh5taXR6eS5qZWx2ZXNAZGFpa2luYXBwbGllZC5jb20wgZ8wDQYJ
+KoZIhvcNAQEBBQADgY0AMIGJAoGBAMhj6JoPY+1vpm9F+JIaRhgPkjemjoRlNlCvK6cW9ORwqFY8
+nNZQV1pECWg0WsVHQh77Sr5mqIikCf2J24OMTHU/l8U7YuVGY6DGefp9LqOgDVXOMP6v1m1mpL/f
+VXSLo6aZO/inFnvoVCeVa5mQsr0aa97N78ofe7Cjz8PlM6F5AgMBAAGjggKpMIICpTCCAU8GA1Ud
+IASCAUYwggFCMIIBPgYIKwYBBAHDUgUwggEwMC0GCCsGAQUFBwIBFiFodHRwOi8vd3d3LmUtY2Vy
+dGNoaWxlLmNsL0NQUy5odG0wgf4GCCsGAQUFBwICMIHxHoHuAEUAbAAgAHIAZQBzAHAAbwBuAGQA
+ZQByACAAZQBzAHQAZQAgAGYAbwByAG0AdQBsAGEAcgBpAG8AIABlAHMAIAB1AG4AIAByAGUAcQB1
+AGkAcwBpAHQAbwAgAGkAbgBkAGkAcwBwAGUAbgBzAGEAYgBsAGUAIABwAGEAcgBhACAAZABhAHIA
+IABpAG4AaQBjAGkAbwAgAGEAbAAgAHAAcgBvAGMAZQBzAG8AIABkAGUAIABjAGUAcgB0AGkAZgBp
+AGMAYQBjAGkA8wBuAC4AIABQAG8AcwB0AGUAcgBpAG8AcgBtAGUAbgB0AGUALDAdBgNVHQ4EFgQU
+9AM1f9ALN1Hnf+eRvHNVFVUyxU8wCwYDVR0PBAQDAgTwMCMGA1UdEQQcMBqgGAYIKwYBBAHBAQGg
+DBYKMDg0NzUxMzgtMzAfBgNVHSMEGDAWgBR44T6f0hKzejyNzTAOU7NDKQezVTA+BgNVHR8ENzA1
+MDOgMaAvhi1odHRwOi8vY3JsLmUtY2VydGNoaWxlLmNsL2VjZXJ0Y2hpbGVjYUZFUy5jcmwwOgYI
+KwYBBQUHAQEELjAsMCoGCCsGAQUFBzABhh5odHRwOi8vb2NzcC5lY2VydGNoaWxlLmNsL29jc3Aw
+PQYJKwYBBAGCNxUHBDAwLgYmKwYBBAGCNxUIgtyDL4WTjGaF1Z0XguLcJ4Hv7DxhgZrnFYav4BUC
+AWQCAQQwIwYDVR0SBBwwGqAYBggrBgEEAcEBAqAMFgo5NjkyODE4MC01MA0GCSqGSIb3DQEBBQUA
+A4IBAQB3luQ2LffF+n67kNDJw2nD8dv0SV/PQAXKJJzPhS2AEoFJcne5bqn9MbDLYpI+MMfUwlfn
+j7XzZAOn68X5TsDN8QpMfnyfuC4Q8wVBQif2SyvmnNWAXwm1U1iBTdDsonlATLoV63GIVoHAr8z4
+jmEVYV69b8BRtFS/zqfU99QF74VJ0BMTYRKxNnpJbtlEdtSJ9bom3FAvnkf/MaxY2vhAKiy9Xex8
+zNEcD8X5PiM5f6VHqjI+/IXwDUdoYxe8xP1XJB0EnBPVEQ5wlGFlY6hPFx+D0Sr3UgkrhuUnmkoY
+RXU+nRUTrUgnZk88sIAu6m5CEkfTZdWV+HDaTfH8qVMP</X509Certificate>
+				</X509Data>
+			</KeyInfo>
+		</Signature>
+</DTE></SetDTE>
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"></CanonicalizationMethod><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"></SignatureMethod><Reference URI="#EnvioDTE-76309127-9-85956200-0-20181228-142406-0F8BA525"><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></DigestMethod><DigestValue>9gVij06DJYyyE+gHHh2KhJpqmws=</DigestValue></Reference></SignedInfo><SignatureValue>DEEzb1QLooQ2Vcv8MOobhpuk2jB2nFOSRrmZRV0rzs2+QqRP+69NIl6hVQZ3uZ8IK2Mbgj0qZEz4
+i3pOQlmy4736hRqkuO3lmvkhkrXw4tdc6/UtrhD2TEzvgsFZh9kZFBIoINBp5BkxVGnKJ8JRw3sd
+DbIV63GgH8Zlfq2RcD6gyVHmKeVcLZn0SAeWsNMj9RmceTh/6L0LZePHyGdY4eXWidd7bxzysX1Y
+CeC7Dc5jSGt6+uDZs6ywqu23TnMH+ECNdYxvCKciB2F/8uDZ6eyPHmcGtNHCWfJ8R7cMYpcGUIAi
+XnQ0qsnBFH0Lrt7eGNmFJSHbF2ZDiQaIiqzzNQ==</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>lFOmbrg9OkK2yG7URNP9kaVZQLRvqYF4llzwx5YsJJ9l7pmmkrQxzHNy3kGPdBtX2LIE6GdX11br
+qdGjBIs39SaptmIM0AHvQ5pe/5n/kKUw/hJebUo94RiNTaaKhYw3XcEZ2PcOkZkYNPRYGdNWGzyj
+/5dI5r6wi3JVZRGI2a1mgNFS96sG84nQstYz1PMts7MUuiEK+ibRnmgKAmBKAj2cbHKcqkn9BzEO
+8O83dYX6EQRxSyE2KRONqw7misVop0gcnVIiQm/vOs74rcGZ2t848X6vaVgrYsU+cQYETf7OrArh
+vUpFU+0Iv+br9fxXIR9bxnGFj+ZbaNgAPfaDZQ==</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIF7zCCBNegAwIBAgIBFDANBgkqhkiG9w0BAQsFADCBpjELMAkGA1UEBhMCQ0wxGDAWBgNVBAoT
+D0FjZXB0YS5jb20gUy5BLjFIMEYGA1UEAxM/QWNlcHRhLmNvbSBBdXRvcmlkYWQgQ2VydGlmaWNh
+ZG9yYSBDbGFzZSAyIFBlcnNvbmEgTmF0dXJhbCAtIEc0MR4wHAYJKoZIhvcNAQkBFg9pbmZvQGFj
+ZXB0YS5jb20xEzARBgNVBAUTCjk2OTE5MDUwLTgwHhcNMTYxMDA3MTkxNzU4WhcNMTkxMDA3MTkx
+NzU4WjCBhjELMAkGA1UEBhMCQ0wxGDAWBgNVBAwTD1BFUlNPTkEgTkFUVVJBTDEfMB0GA1UEAxMW
+UEFCTE8gSVpRVUlFUkRPIFdBTEtFUjEoMCYGCSqGSIb3DQEJARYZcGFibG9penF1aWVyZG93QGdt
+YWlsLmNvbTESMBAGA1UEBRMJNTU0NDcwMC00MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKC
+AQEAlFOmbrg9OkK2yG7URNP9kaVZQLRvqYF4llzwx5YsJJ9l7pmmkrQxzHNy3kGPdBtX2LIE6GdX
+11brqdGjBIs39SaptmIM0AHvQ5pe/5n/kKUw/hJebUo94RiNTaaKhYw3XcEZ2PcOkZkYNPRYGdNW
+Gzyj/5dI5r6wi3JVZRGI2a1mgNFS96sG84nQstYz1PMts7MUuiEK+ibRnmgKAmBKAj2cbHKcqkn9
+BzEO8O83dYX6EQRxSyE2KRONqw7misVop0gcnVIiQm/vOs74rcGZ2t848X6vaVgrYsU+cQYETf7O
+rArhvUpFU+0Iv+br9fxXIR9bxnGFj+ZbaNgAPfaDZQIDAQABo4ICRDCCAkAwHwYDVR0jBBgwFoAU
+ZaWrPj/ItlFtEX5fwwoH5kOgCLYwHQYDVR0OBBYEFKp8iBzLRiGHokqiR7ocmLIYH65iMAsGA1Ud
+DwQEAwIE8DAdBgNVHSUEFjAUBggrBgEFBQcDAgYIKwYBBQUHAwQwEQYJYIZIAYb4QgEBBAQDAgWg
+MHUGA1UdIARuMGwwagYIKwYBBAG1awIwXjAxBggrBgEFBQcCARYlaHR0cHM6Ly9hY2c0LmFjZXB0
+YS5jb20vQ1BTLUFjZXB0YWNvbTApBggrBgEFBQcCAjAdMBYWD0FjZXB0YS5jb20gUy5BLjADAgEJ
+GgNUQkQwWgYDVR0SBFMwUaAYBggrBgEEAcEBAqAMFgo5NjkxOTA1MC04oCQGCCsGAQUFBwgDoBgw
+FgwKOTY5MTkwNTAtOAYIKwYBBAHBAQKBD2luZm9AYWNlcHRhLmNvbTBiBgNVHREEWzBZoBcGCCsG
+AQQBwQEBoAsWCTU1NDQ3MDAtNKAjBggrBgEFBQcIA6AXMBUMCTU1NDQ3MDAtNAYIKwYBBAHBAQKB
+GXBhYmxvaXpxdWllcmRvd0BnbWFpbC5jb20wRwYIKwYBBQUHAQEEOzA5MDcGCCsGAQUFBzABhito
+dHRwczovL2FjZzQuYWNlcHRhLmNvbS9hY2c0L29jc3AvQ2xhc2UyLUc0MD8GA1UdHwQ4MDYwNKAy
+oDCGLmh0dHBzOi8vYWNnNC5hY2VwdGEuY29tL2FjZzQvY3JsL0NsYXNlMi1HNC5jcmwwDQYJKoZI
+hvcNAQELBQADggEBAL0/jTzpAMmxX7v5w/dFYyQmTZPxN7fxWxKyf0np751stBTHnUExiFv+wqIv
+E3iE5Znr8tMoeWwpDz+V0hgKqQDUtZipGbN2XNW19yS6JgenoNbv6dUbVpJwuYJeYcjhtXoePo64
+AoP5cqM/xtcyVkePs2Y/fpBvehXC0qwq1zpxQkMNt+p+3UJqVH12qsMKBUw038Q+t4YIPG18W74c
+KObVaxGG5A/YyTWsGM2Nupmc10p/yXgAZLDptlWA4h7/HHFJT8wRvAdBzhXo1IRsDrfBZ4cI93ts
+fH0PdMlRqFg1zc3e+hA66nqxtua75CK21+fwx6cMP+rm7kRfVWA6tf4=</X509Certificate></X509Data></KeyInfo></Signature></EnvioDTE>
