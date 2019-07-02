@@ -1,0 +1,1989 @@
+RutEmisor,RutReceptor,TpoDTE,NroDTE,Documento,Folio,FchEmis,RznSoc,GiroEmis,Sucursal,DirOrigen,CmnaOrigen,MntNeto,MntExe,TasaIVA,IVA,MntTotal,NroLinDet,TpoCodigo,VlrCodigo,NmbItem,DscItem,QtyItem,PrcItem,MontoItem,Detalle,CdgItem,NroLinRef,TpoDocRef,FolioRef,FchRef,correlativo_doc
+96781490-3,85956200-0,33,1,"
+        
+          
+            33
+            76471
+            2018-12-27
+          
+          
+            96781490-3
+            altimet s.a.
+            arriendo de elementos para eventos
+            713030
+            Av. Jorge Alessandri 615
+            LA REINA
+            Santiago
+          
+          
+            85956200-0
+            CALVO INGENIERIA S.A.
+            
+            AIRE ACONDICIONADO
+            LEON DE LA BARRA 9441
+            LO ESPEJO
+            SANTIAGO
+          
+          
+            89950
+            19
+            17091
+            107041
+          
+        
+        
+          1
+          
+            INT1
+            ----------
+          
+          ARR. 15/11/18 AL 15/12/18 POR 30 DIAS
+          0
+        
+        
+          2
+          
+            INT1
+            ----------
+          
+          O-C 12401 SEGUN G-D 0041205 OBRA: 010 :
+          0
+        
+        
+          3
+          
+            INT1
+            10004
+          
+          VERTICAL 2 MT.
+          8
+          1364
+          10911
+        
+        
+          4
+          
+            INT1
+            10107
+          
+          VERTICAL 1 MT.
+          4
+          736
+          2942
+        
+        
+          5
+          
+            INT1
+            11209
+          
+          ""O"" PLATAFORMA METALICA 2.57 MULTIDIRECC
+          2
+          2820
+          5640
+        
+        
+          6
+          
+            INT1
+            12209
+          
+          ""O"" PLATAFORMA CON ESCALA 2.57 MT
+          2
+          8878
+          17756
+        
+        
+          7
+          
+            INT1
+            15206
+          
+          COLLARIN BASE 0.23 M.
+          4
+          250
+          998
+        
+        
+          8
+          
+            INT1
+            15207
+          
+          BASES REGULABLES 0.50 MTS
+          4
+          434
+          1736
+        
+        
+          9
+          
+            INT1
+            16000
+          
+          HORIZONTAL O BARANDA 2.57 M
+          22
+          1192
+          26220
+        
+        
+          10
+          
+            INT1
+            16001
+          
+          HORIZONTAL O BARANDA 0.73 M
+          19
+          510
+          9697
+        
+        
+          11
+          
+            INT1
+            16604
+          
+          DIAGONAL 3.18 MTx 2
+          4
+          1145
+          4578
+        
+        
+          12
+          
+            INT1
+            18106
+          
+          RODAPIE 2.57 MTS
+          4
+          924
+          3697
+        
+        
+          13
+          
+            INT1
+            18107
+          
+          RODAPIE 0.73 MTS
+          4
+          461
+          1844
+        
+        
+          14
+          
+            INT1
+            19100
+          
+          GANCHO DE ANCLAJE A MURO DE 0.30-0.60 M.
+          4
+          247
+          989
+        
+        
+          15
+          
+            INT1
+            20103
+          
+          ABRAZADERAS GIRATORIA DE 1 1/2"" x 1 1/2""
+          4
+          607
+          2429
+        
+        
+          16
+          
+            INT1
+            21100
+          
+          TORNILLO O CANCAMO PARA MURO
+          4
+          88
+          351
+        
+        
+          17
+          
+            INT1
+            21101
+          
+          TARUGO PARA TORNILLO
+          4
+          41
+          162
+        
+        
+          
+            96781490-3
+            33
+            76471
+            2018-12-27
+            85956200-0
+            CALVO INGENIERIA S.A.
+            107041
+            ARR. 15/11/18 AL 15/12/18 POR 30 DIAS
+            
+              
+                96781490-3
+                ALTIMET S A
+                33
+                
+                  75001
+                  77000
+                
+                2018-10-09
+                
+                  wTI4bNQU5+IHYCsT1T9RuXIRObSDmko62Z7yPB0C8zXx3T1GYV79rXWhSfeJw9TrjjRQCFUJjD9iLvASWE/G8w==
+                  Aw==
+                
+                300
+              
+              U3DnpE/2Wn4FBMDimoSOPLW+f9QUERHJvalRzRCGw5QDOWUnVGU4EgVTbZN6pyKG4Ii0q8+PiyoQgNAuZ4C5qQ==
+            
+            2018-12-27T18:52:53
+          
+          UGOjQYWqqv2YRrjax7t7bF10acpKf9JzAn5kDWGbBVoO94hljau/bDfN/QT+jMNQznrL6UXFMoO06lLQ9Y5W4A==
+        
+        2018-12-27T18:52:57
+      ",76471,2018-12-27,altimet s.a.,arriendo de elementos para eventos,"",Av. Jorge Alessandri 615,LA REINA,89950,"",19,17091,107041,1234567891011121314151617,INT1INT1INT1INT1INT1INT1INT1INT1INT1INT1INT1INT1INT1INT1INT1INT1INT1,--------------------100041010711209122091520615207160001600116604181061810719100201032110021101,"ARR. 15/11/18 AL 15/12/18 POR 30 DIASO-C 12401 SEGUN G-D 0041205 OBRA: 010 :VERTICAL 2 MT.VERTICAL 1 MT.""O"" PLATAFORMA METALICA 2.57 MULTIDIRECC""O"" PLATAFORMA CON ESCALA 2.57 MTCOLLARIN BASE 0.23 M.BASES REGULABLES 0.50 MTSHORIZONTAL O BARANDA 2.57 MHORIZONTAL O BARANDA 0.73 MDIAGONAL 3.18 MTx 2RODAPIE 2.57 MTSRODAPIE 0.73 MTSGANCHO DE ANCLAJE A MURO DE 0.30-0.60 M.ABRAZADERAS GIRATORIA DE 1 1/2"" x 1 1/2""TORNILLO O CANCAMO PARA MUROTARUGO PARA TORNILLO","",84224422194444444,136473628208878250434119251011459244612476078841,0010911294256401775699817362622096974578369718449892429351162,"
+          1
+          
+            INT1
+            ----------
+          
+          ARR. 15/11/18 AL 15/12/18 POR 30 DIAS
+          0
+        
+          2
+          
+            INT1
+            ----------
+          
+          O-C 12401 SEGUN G-D 0041205 OBRA: 010 :
+          0
+        
+          3
+          
+            INT1
+            10004
+          
+          VERTICAL 2 MT.
+          8
+          1364
+          10911
+        
+          4
+          
+            INT1
+            10107
+          
+          VERTICAL 1 MT.
+          4
+          736
+          2942
+        
+          5
+          
+            INT1
+            11209
+          
+          ""O"" PLATAFORMA METALICA 2.57 MULTIDIRECC
+          2
+          2820
+          5640
+        
+          6
+          
+            INT1
+            12209
+          
+          ""O"" PLATAFORMA CON ESCALA 2.57 MT
+          2
+          8878
+          17756
+        
+          7
+          
+            INT1
+            15206
+          
+          COLLARIN BASE 0.23 M.
+          4
+          250
+          998
+        
+          8
+          
+            INT1
+            15207
+          
+          BASES REGULABLES 0.50 MTS
+          4
+          434
+          1736
+        
+          9
+          
+            INT1
+            16000
+          
+          HORIZONTAL O BARANDA 2.57 M
+          22
+          1192
+          26220
+        
+          10
+          
+            INT1
+            16001
+          
+          HORIZONTAL O BARANDA 0.73 M
+          19
+          510
+          9697
+        
+          11
+          
+            INT1
+            16604
+          
+          DIAGONAL 3.18 MTx 2
+          4
+          1145
+          4578
+        
+          12
+          
+            INT1
+            18106
+          
+          RODAPIE 2.57 MTS
+          4
+          924
+          3697
+        
+          13
+          
+            INT1
+            18107
+          
+          RODAPIE 0.73 MTS
+          4
+          461
+          1844
+        
+          14
+          
+            INT1
+            19100
+          
+          GANCHO DE ANCLAJE A MURO DE 0.30-0.60 M.
+          4
+          247
+          989
+        
+          15
+          
+            INT1
+            20103
+          
+          ABRAZADERAS GIRATORIA DE 1 1/2"" x 1 1/2""
+          4
+          607
+          2429
+        
+          16
+          
+            INT1
+            21100
+          
+          TORNILLO O CANCAMO PARA MURO
+          4
+          88
+          351
+        
+          17
+          
+            INT1
+            21101
+          
+          TARUGO PARA TORNILLO
+          4
+          41
+          162
+        ","
+            INT1
+            ----------
+          
+            INT1
+            ----------
+          
+            INT1
+            10004
+          
+            INT1
+            10107
+          
+            INT1
+            11209
+          
+            INT1
+            12209
+          
+            INT1
+            15206
+          
+            INT1
+            15207
+          
+            INT1
+            16000
+          
+            INT1
+            16001
+          
+            INT1
+            16604
+          
+            INT1
+            18106
+          
+            INT1
+            18107
+          
+            INT1
+            19100
+          
+            INT1
+            20103
+          
+            INT1
+            21100
+          
+            INT1
+            21101
+          ","","","","",19 01 0659
+76309127-9,85956200-0,33,1,"
+			
+				
+					33
+					5262
+					2018-12-28
+					
+						2019-03-28
+						529252
+						
+					
+					
+						2019-02-26
+						529253
+						
+					
+					
+						2019-01-27
+						529252
+						
+					
+					
+						2018-12-28
+						529253
+						
+					
+					Contado y crédito 30/60/90 días         
+					2018-12-28
+				
+				
+					76309127-9
+					DAIKIN AIRCONDITIONING CHILE S.A.
+					IMPORT.EXPOR.Y COMERCIALIZACION DE EQUIPOS DE REFR.Y AIRE ACONDICIONAD
+					+56-97-518-4542
+					469000
+					OJOS DEL SALADO 0801,  Comuna QUILICURA
+					QUILICURA
+					11352053-1
+				
+				
+					85956200-0
+					CALVO INGENIERIA S.A.
+					AIRE ACONDICIONADO
+					.NICOLAS MERINO , Fono .56950742021
+					.,rodolfo.debonnafos@csenergy.cl
+					LEON DE LA BARRA 9441
+					LO ESPEJO
+					
+				
+				
+					.LEON DE LA BARRA 9441, LO ESPEJO
+				
+				
+					1779000
+					19.00
+					338010
+					2117010
+				
+			
+			
+				1
+				
+					INTERNO
+					UATYP60AGXY19
+				
+				ROOFTOP PACKAGED R407C NO INV
+				1.000000
+				1779000.000000
+				1779000
+			
+			
+				1
+				801
+				30988
+				2018-12-26
+			
+			
+				
+					76309127-9
+					33
+					5262
+					2018-12-28
+					85956200-0
+					CALVO INGENIERIA S.A.
+					2117010
+					ROOFTOP PACKAGED R407C NO INV
+					
+						
+							76309127-9
+							DAIKIN AIRCONDITIONING CHILE S.A.
+							33
+							
+								5240
+								5739
+							
+							2018-12-18
+							
+								rTvmY9pbnTOSFHTUupfPJBC1tacpTbZqnNUKn6tfbXzJ0Rmpk2Aidr+jNBq2T2bQ+ozZYghcFUukRcXiFnTp5Q==
+								Aw==
+							
+							300
+						
+						mcnEigMQBILPM20uDdBAL+tdggeYZHsQnOIhTWJM9piqLxH9ZDaOiAiUk7OfTCVqlgg/JGGenSRqLqFgcAv+9Q==
+					
+					2018-12-28T14:16:48
+				
+				AWorbQfe1RAlImq4MemybAcOTWT+eniOgrwhpxhk6k1p1qt8yCmd242GSnjiXyvMAZhnCddUBG1R8jT/ruP8xw==
+			
+			2018-12-28T14:16:48
+		",5262,2018-12-28,DAIKIN AIRCONDITIONING CHILE S.A.,IMPORT.EXPOR.Y COMERCIALIZACION DE EQUIPOS DE REFR.Y AIRE ACONDICIONAD,"","OJOS DEL SALADO 0801,  Comuna QUILICURA",QUILICURA,1779000,"",19.00,338010,2117010,1,INTERNO,UATYP60AGXY19,ROOFTOP PACKAGED R407C NO INV,"",1.000000,1779000.000000,1779000,"
+				1
+				
+					INTERNO
+					UATYP60AGXY19
+				
+				ROOFTOP PACKAGED R407C NO INV
+				1.000000
+				1779000.000000
+				1779000
+			","
+					INTERNO
+					UATYP60AGXY19
+				",1,801,30988,2018-12-26,19 01 0665
+76377649-2,85956200-0,33,1,"
+
+
+33
+49979
+2019-01-08
+2
+30 Dias Recep. Factura
+2019-02-07
+
+
+76377649-2
+AGUASIN SPA
+FABRICACION DE SUSTANCIAS QUIMICAS BASICAS, EXCEPTO ABONOS Y COMPUESTO
+241190
+Casa Matriz
+PANAMERICANA NORTE 18900
+LAMPA
+SANTIAGO
+Ag 1
+
+
+85956200-0
+CALVO INGENIERA S.A
+ACONDICIONAMIENTO DE EDIFICIOS
+VENTAS@CALVO.CL
+LEON DE LA BARRA 9441
+LO ESPEJO
+SANTIAGO
+aRGoMeDo 419
+STGo CeNTRo
+SaNTiaGo
+
+
+aRGoMeDo 419
+STGo CeNTRo
+SaNTiaGo
+
+
+321254
+0
+19
+61038
+382292
+
+
+
+1
+
+INT1
+QTQ14641
+
+QTQ14641
+TTO. QCO. ENTEL CDLV1
+1.000000
+C-U
+321254.000000
+321254
+
+
+1
+801
+30910
+2019-01-08
+
+76377649-233499792019-01-0885956200-0CALVO INGENIERA S.A382292QTQ14641
+
+76377649-2
+AGUASIN SPA
+33
+4989750896
+2018-12-31
+xbLZUHKBEMAHE8uke0VPOL+VoxBlw5xvm1BhASNzxC3gOmKhs3jVQUJGcLVjuzgIPhSSKYjmJVCkZ2P98MVshw==Aw==
+300
+
+MeokV5u/ltR1AaXdMn6iFcwvfC44dViIj/REK2oWbSCM6+gLneBXwa5zrwp/sjOvIUq9A447kqjW1D6mo+4ovw==
+2019-01-08T17:13:23jJqkzChSAI/DbtLsJiYUEJ+0JNDxH3oxBsJT1SXTY+fXYMH/1XBYD+aHiOJl8eg86SrJsja48jnMoiA+wQqjeQ==2019-01-08T17:13:23
+",49979,2019-01-08,AGUASIN SPA,"FABRICACION DE SUSTANCIAS QUIMICAS BASICAS, EXCEPTO ABONOS Y COMPUESTO",Casa Matriz,PANAMERICANA NORTE 18900,LAMPA,321254,0,19,61038,382292,1,INT1,QTQ14641,QTQ14641,TTO. QCO. ENTEL CDLV1,1.000000,321254.000000,321254,"
+1
+
+INT1
+QTQ14641
+
+QTQ14641
+TTO. QCO. ENTEL CDLV1
+1.000000
+C-U
+321254.000000
+321254
+","
+INT1
+QTQ14641
+",1,801,30910,2019-01-08,19 01 0366
+76377649-2,85956200-0,33,1,"
+
+
+33
+49981
+2019-01-08
+2
+30 Dias Recep. Factura
+2019-02-07
+
+
+76377649-2
+AGUASIN SPA
+FABRICACION DE SUSTANCIAS QUIMICAS BASICAS, EXCEPTO ABONOS Y COMPUESTO
+241190
+Casa Matriz
+PANAMERICANA NORTE 18900
+LAMPA
+SANTIAGO
+Ag 1
+
+
+85956200-0
+CALVO INGENIERA S.A
+ACONDICIONAMIENTO DE EDIFICIOS
+VENTAS@CALVO.CL
+LEON DE LA BARRA 9441
+LO ESPEJO
+SANTIAGO
+aRGoMeDo 419
+STGo CeNTRo
+SaNTiaGo
+
+
+aRGoMeDo 419
+STGo CeNTRo
+SaNTiaGo
+
+
+321254
+0
+19
+61038
+382292
+
+
+
+1
+
+INT1
+QTQ14642
+
+QTQ14642
+TTO. QCO. ENTEL CDLV2
+1.000000
+C-U
+321254.000000
+321254
+
+
+1
+801
+30912
+2019-01-08
+
+76377649-233499812019-01-0885956200-0CALVO INGENIERA S.A382292QTQ14642
+
+76377649-2
+AGUASIN SPA
+33
+4989750896
+2018-12-31
+xbLZUHKBEMAHE8uke0VPOL+VoxBlw5xvm1BhASNzxC3gOmKhs3jVQUJGcLVjuzgIPhSSKYjmJVCkZ2P98MVshw==Aw==
+300
+
+MeokV5u/ltR1AaXdMn6iFcwvfC44dViIj/REK2oWbSCM6+gLneBXwa5zrwp/sjOvIUq9A447kqjW1D6mo+4ovw==
+2019-01-08T17:13:23rxAaaYaePwfW1Vd6oAIuW5f+8fF4K0XUCPy+BPP5ii++tq3MMdnsNEroXInXrwitkA/Bw/nXko+4skqjlYsanA==2019-01-08T17:13:23
+",49981,2019-01-08,AGUASIN SPA,"FABRICACION DE SUSTANCIAS QUIMICAS BASICAS, EXCEPTO ABONOS Y COMPUESTO",Casa Matriz,PANAMERICANA NORTE 18900,LAMPA,321254,0,19,61038,382292,1,INT1,QTQ14642,QTQ14642,TTO. QCO. ENTEL CDLV2,1.000000,321254.000000,321254,"
+1
+
+INT1
+QTQ14642
+
+QTQ14642
+TTO. QCO. ENTEL CDLV2
+1.000000
+C-U
+321254.000000
+321254
+","
+INT1
+QTQ14642
+",1,801,30912,2019-01-08,19 01 0364
+76163257-4,85956200-0,33,1,"
+        
+          
+            33
+            2165
+            2019-01-02
+            1
+            2019-01-02
+          
+          
+            76163257-4
+            Nicolaides Industrial S.A.
+            INSTRUMENTACION Y AUTOMATIZACION INDUSTRIAL
+            519000
+            Av. El Cortijo 2410
+            Conchali
+            Santiago
+            Christian Leiro
+          
+          
+            85956200-0
+            85956200-0
+            CALVO INGENIERIA S.A
+            Climatizacion
+            Leon de la Barra 9441
+            Lo Espejo
+            Santiago
+          
+          
+            2560
+            19.00
+            486
+            3046
+          
+        
+        
+          1
+          
+            INT1
+            AISKFECF10
+          
+          K-Flex EC 09-10
+          4.00
+          ML
+          389.00
+          19.79
+          308
+          1248
+        
+        
+          2
+          
+            INT1
+            AISKFECF12
+          
+          K-Flex EC 09-12
+          4.00
+          ML
+          410.00
+          20.00
+          328
+          1312
+        
+        
+          1
+          802
+          1862
+          2019-01-02
+        
+        
+          
+            76163257-4
+            33
+            2165
+            2019-01-02
+            85956200-0
+            CALVO INGENIERIA S.A
+            3046
+            K-Flex EC 09-10
+            
+              
+                76163257-4
+                NICOLAIDES INDUSTRIAL S.A.
+                33
+                
+                  1711
+                  3155
+                
+                2018-11-12
+                
+                  tSYVP0hcqYRazcLOgMkPpJSI0vFi2onarma3OgapJgYGOJ6i94vNmhHDFpGF8AWOhRf5zSVQP4irwuVC/7sSgQ==
+                  Aw==
+                
+                300
+              
+              mZ9EnVeyYiaeOkFBOe/FM5NPB7DpbHlmdD/DYVVyx4t9qgQ/5btHr4i/xkqO3lxPAiCFBZ9E+KKtKM8sm8FMxw==
+            
+            2019-01-02T14:35:00
+          
+          Q4OnKY2gVTTKqmMUfdpKijJtD040bMTUvNASVSiedkowXwy9X6srQk83PSI4+oMGkhB8vDMj4bwq
+e7RzSoGdUQ==
+        
+        2019-01-02T14:35:00
+      ",2165,2019-01-02,Nicolaides Industrial S.A.,INSTRUMENTACION Y AUTOMATIZACION INDUSTRIAL,"",Av. El Cortijo 2410,Conchali,2560,"",19.00,486,3046,12,INT1INT1,AISKFECF10AISKFECF12,K-Flex EC 09-10K-Flex EC 09-12,"",4.004.00,389.00410.00,12481312,"
+          1
+          
+            INT1
+            AISKFECF10
+          
+          K-Flex EC 09-10
+          4.00
+          ML
+          389.00
+          19.79
+          308
+          1248
+        
+          2
+          
+            INT1
+            AISKFECF12
+          
+          K-Flex EC 09-12
+          4.00
+          ML
+          410.00
+          20.00
+          328
+          1312
+        ","
+            INT1
+            AISKFECF10
+          
+            INT1
+            AISKFECF12
+          ",1,802,1862,2019-01-02,19 01 0184
+76377649-2,85956200-0,33,1,"
+
+
+33
+49978
+2019-01-08
+2
+30 Dias Recep. Factura
+2019-02-07
+
+
+76377649-2
+AGUASIN SPA
+FABRICACION DE SUSTANCIAS QUIMICAS BASICAS, EXCEPTO ABONOS Y COMPUESTO
+241190
+Casa Matriz
+PANAMERICANA NORTE 18900
+LAMPA
+SANTIAGO
+Ag 1
+
+
+85956200-0
+CALVO INGENIERA S.A
+ACONDICIONAMIENTO DE EDIFICIOS
+VENTAS@CALVO.CL
+LEON DE LA BARRA 9441
+LO ESPEJO
+SANTIAGO
+aRGoMeDo 419
+STGo CeNTRo
+SaNTiaGo
+
+
+aRGoMeDo 419
+STGo CeNTRo
+SaNTiaGo
+
+
+321254
+0
+19
+61038
+382292
+
+
+
+1
+
+INT1
+QTQ15371
+
+QTQ15371
+TRAT.QCO MENSUAL AMUNATEGUI
+1.000000
+C-U
+321254.000000
+321254
+
+
+1
+801
+30909
+2019-01-08
+
+76377649-233499782019-01-0885956200-0CALVO INGENIERA S.A382292QTQ15371
+
+76377649-2
+AGUASIN SPA
+33
+4989750896
+2018-12-31
+xbLZUHKBEMAHE8uke0VPOL+VoxBlw5xvm1BhASNzxC3gOmKhs3jVQUJGcLVjuzgIPhSSKYjmJVCkZ2P98MVshw==Aw==
+300
+
+MeokV5u/ltR1AaXdMn6iFcwvfC44dViIj/REK2oWbSCM6+gLneBXwa5zrwp/sjOvIUq9A447kqjW1D6mo+4ovw==
+2019-01-08T17:13:23CrDBjb8c9wi9rmrRbi6+wPAxnJbzin4ikEJE+ZaIGCUaPvZf+a9nSusyE47iuk3u3BbmnyR/CJxlERCq3Y2yxA==2019-01-08T17:13:23
+",49978,2019-01-08,AGUASIN SPA,"FABRICACION DE SUSTANCIAS QUIMICAS BASICAS, EXCEPTO ABONOS Y COMPUESTO",Casa Matriz,PANAMERICANA NORTE 18900,LAMPA,321254,0,19,61038,382292,1,INT1,QTQ15371,QTQ15371,TRAT.QCO MENSUAL AMUNATEGUI,1.000000,321254.000000,321254,"
+1
+
+INT1
+QTQ15371
+
+QTQ15371
+TRAT.QCO MENSUAL AMUNATEGUI
+1.000000
+C-U
+321254.000000
+321254
+","
+INT1
+QTQ15371
+",1,801,30909,2019-01-08,19 01 0367
+76377649-2,85956200-0,33,1,"
+
+
+33
+49980
+2019-01-08
+2
+30 Dias Recep. Factura
+2019-02-07
+
+
+76377649-2
+AGUASIN SPA
+FABRICACION DE SUSTANCIAS QUIMICAS BASICAS, EXCEPTO ABONOS Y COMPUESTO
+241190
+Casa Matriz
+PANAMERICANA NORTE 18900
+LAMPA
+SANTIAGO
+Ag 1
+
+
+85956200-0
+CALVO INGENIERA S.A
+ACONDICIONAMIENTO DE EDIFICIOS
+VENTAS@CALVO.CL
+LEON DE LA BARRA 9441
+LO ESPEJO
+SANTIAGO
+aRGoMeDo 419
+STGo CeNTRo
+SaNTiaGo
+
+
+aRGoMeDo 419
+STGo CeNTRo
+SaNTiaGo
+
+
+321254
+0
+19
+61038
+382292
+
+
+
+1
+
+INT1
+QTQ14640
+
+QTQ14640
+TTO. QCO. ENTEL LONGOVILO
+1.000000
+C-U
+321254.000000
+321254
+
+
+1
+801
+30911
+2019-01-08
+
+76377649-233499802019-01-0885956200-0CALVO INGENIERA S.A382292QTQ14640
+
+76377649-2
+AGUASIN SPA
+33
+4989750896
+2018-12-31
+xbLZUHKBEMAHE8uke0VPOL+VoxBlw5xvm1BhASNzxC3gOmKhs3jVQUJGcLVjuzgIPhSSKYjmJVCkZ2P98MVshw==Aw==
+300
+
+MeokV5u/ltR1AaXdMn6iFcwvfC44dViIj/REK2oWbSCM6+gLneBXwa5zrwp/sjOvIUq9A447kqjW1D6mo+4ovw==
+2019-01-08T17:13:23iG4nYpKMLWbjdmeFbUF1Bx/1RUfE5UIEQ1XVsaJtf7l2bFQS4tg+JWqnErTmpSl+dpbV5QXrtcbIPX7wKBIBcQ==2019-01-08T17:13:23
+",49980,2019-01-08,AGUASIN SPA,"FABRICACION DE SUSTANCIAS QUIMICAS BASICAS, EXCEPTO ABONOS Y COMPUESTO",Casa Matriz,PANAMERICANA NORTE 18900,LAMPA,321254,0,19,61038,382292,1,INT1,QTQ14640,QTQ14640,TTO. QCO. ENTEL LONGOVILO,1.000000,321254.000000,321254,"
+1
+
+INT1
+QTQ14640
+
+QTQ14640
+TTO. QCO. ENTEL LONGOVILO
+1.000000
+C-U
+321254.000000
+321254
+","
+INT1
+QTQ14640
+",1,801,30911,2019-01-08,19 01 0365
+76377649-2,85956200-0,33,1,"
+
+
+33
+49982
+2019-01-08
+2
+30 Dias Recep. Factura
+2019-02-07
+
+
+76377649-2
+AGUASIN SPA
+FABRICACION DE SUSTANCIAS QUIMICAS BASICAS, EXCEPTO ABONOS Y COMPUESTO
+241190
+Casa Matriz
+PANAMERICANA NORTE 18900
+LAMPA
+SANTIAGO
+Ag 1
+
+
+85956200-0
+CALVO INGENIERA S.A
+ACONDICIONAMIENTO DE EDIFICIOS
+VENTAS@CALVO.CL
+LEON DE LA BARRA 9441
+LO ESPEJO
+SANTIAGO
+aRGoMeDo 419
+STGo CeNTRo
+SaNTiaGo
+
+
+aRGoMeDo 419
+STGo CeNTRo
+SaNTiaGo
+
+
+321254
+0
+19
+61038
+382292
+
+
+
+1
+
+INT1
+QTQ15371
+
+QTQ15371
+TRAT.QCO MENSUAL AMUNATEGUI
+1.000000
+C-U
+321254.000000
+321254
+
+
+1
+801
+30913
+2019-01-08
+
+76377649-233499822019-01-0885956200-0CALVO INGENIERA S.A382292QTQ15371
+
+76377649-2
+AGUASIN SPA
+33
+4989750896
+2018-12-31
+xbLZUHKBEMAHE8uke0VPOL+VoxBlw5xvm1BhASNzxC3gOmKhs3jVQUJGcLVjuzgIPhSSKYjmJVCkZ2P98MVshw==Aw==
+300
+
+MeokV5u/ltR1AaXdMn6iFcwvfC44dViIj/REK2oWbSCM6+gLneBXwa5zrwp/sjOvIUq9A447kqjW1D6mo+4ovw==
+2019-01-08T17:13:23rfqBj000HCJacQ049JLBmDCzsvmi28fRytWNJ9ELcRwYohxXlRaNARJsb3n40tGr5RCi9/ASFI9Dj83O3MPoEA==2019-01-08T17:13:23
+",49982,2019-01-08,AGUASIN SPA,"FABRICACION DE SUSTANCIAS QUIMICAS BASICAS, EXCEPTO ABONOS Y COMPUESTO",Casa Matriz,PANAMERICANA NORTE 18900,LAMPA,321254,0,19,61038,382292,1,INT1,QTQ15371,QTQ15371,TRAT.QCO MENSUAL AMUNATEGUI,1.000000,321254.000000,321254,"
+1
+
+INT1
+QTQ15371
+
+QTQ15371
+TRAT.QCO MENSUAL AMUNATEGUI
+1.000000
+C-U
+321254.000000
+321254
+","
+INT1
+QTQ15371
+",1,801,30913,2019-01-08,19 01 0363
+76377649-2,85956200-0,33,1,"
+
+
+33
+49989
+2019-01-08
+2
+30 Dias Recep. Factura
+2019-02-07
+
+
+76377649-2
+AGUASIN SPA
+FABRICACION DE SUSTANCIAS QUIMICAS BASICAS, EXCEPTO ABONOS Y COMPUESTO
+241190
+Casa Matriz
+PANAMERICANA NORTE 18900
+LAMPA
+SANTIAGO
+Ag 1
+
+
+85956200-0
+CALVO INGENIERA S.A
+ACONDICIONAMIENTO DE EDIFICIOS
+VENTAS@CALVO.CL
+LEON DE LA BARRA 9441
+LO ESPEJO
+SANTIAGO
+aRGoMeDo 419
+STGo CeNTRo
+SaNTiaGo
+
+
+aRGoMeDo 419
+STGo CeNTRo
+SaNTiaGo
+
+
+321254
+0
+19
+61038
+382292
+
+
+
+1
+
+INT1
+QTQ15371
+
+QTQ15371
+TRAT.QCO MENSUAL AMUNATEGUI
+1.000000
+C-U
+321254.000000
+321254
+
+
+1
+801
+30922
+2019-01-08
+
+76377649-233499892019-01-0885956200-0CALVO INGENIERA S.A382292QTQ15371
+
+76377649-2
+AGUASIN SPA
+33
+4989750896
+2018-12-31
+xbLZUHKBEMAHE8uke0VPOL+VoxBlw5xvm1BhASNzxC3gOmKhs3jVQUJGcLVjuzgIPhSSKYjmJVCkZ2P98MVshw==Aw==
+300
+
+MeokV5u/ltR1AaXdMn6iFcwvfC44dViIj/REK2oWbSCM6+gLneBXwa5zrwp/sjOvIUq9A447kqjW1D6mo+4ovw==
+2019-01-08T17:16:16fvyu4BELvkIIKDzouY58ybgS3sBHWnysIZ9ZbIg8kLPWcoZMVwwOGxjfhk02gxYkBpv9HM6uryyc4mOrLPhX3Q==2019-01-08T17:16:16
+",49989,2019-01-08,AGUASIN SPA,"FABRICACION DE SUSTANCIAS QUIMICAS BASICAS, EXCEPTO ABONOS Y COMPUESTO",Casa Matriz,PANAMERICANA NORTE 18900,LAMPA,321254,0,19,61038,382292,1,INT1,QTQ15371,QTQ15371,TRAT.QCO MENSUAL AMUNATEGUI,1.000000,321254.000000,321254,"
+1
+
+INT1
+QTQ15371
+
+QTQ15371
+TRAT.QCO MENSUAL AMUNATEGUI
+1.000000
+C-U
+321254.000000
+321254
+","
+INT1
+QTQ15371
+",1,801,30922,2019-01-08,19 01 0356
+76124890-1,85956200-0,33,1,"
+        
+          
+            33
+            62882742
+            2019-01-01
+            2
+            1
+            2018-12-01
+            2018-12-31
+            2019-01-21
+          
+          
+            76124890-1
+            Telefónica Móviles Chile S.A.
+            Comunicaciones
+            642090
+            Bosque Sur 90 (Segundo Subterraneo)
+            Las Condes
+          
+          
+            85956200-0
+            30512810
+            Calvo Climatizacion S.A
+            Actividades No Especificadas
+            facturacion@csenergy.cl
+            Leon De La Barra 9441
+            Lo Espejo
+            Santiago
+          
+          
+            15750
+            19
+            2993
+            18743
+            0
+            18743
+          
+        
+        
+          1
+          Servicio Telefonico Movil
+          18743
+        
+        
+          
+            76124890-1
+            33
+            62882742
+            2019-01-01
+            85956200-0
+            Calvo Climatizacion S.A
+            18743
+            Servicio Telefonico Movil
+            
+              
+                76124890-1
+                TELEFONICA MOVILES CHILE S.A.
+                33
+                
+                  62825001
+                  63025000
+                
+                2018-10-30
+                
+                  4VaZMEovQK+bDWbGslQ0hcE4HmElzrD93PZuH7ZAUdV08UsKKev0EJzLM/lfM1KiWjORpHS7snYLXySzxwhoVw==
+                  Aw==
+                
+                300
+              
+              kGtsIOgAJfOyoS6mQG/XidOLRfUQTxmWKN4y+3ZrvV8NEz79lSHi8QbKjIsXCwByQjCs3gO1UEvqoOz+i4q00g==
+            
+            2019-01-05T16:44:54
+          
+          VfnkFfQELybUmU9GJL18hEoT9ezLpX0WUZCKh86gyrOl+NQamhlQthxUAXCA7IMt02In5OdbJ6Ev
+Df3pzoNz7Q==
+        
+        2019-01-05T16:44:54
+      ",62882742,2019-01-01,Telefónica Móviles Chile S.A.,Comunicaciones,"",Bosque Sur 90 (Segundo Subterraneo),Las Condes,15750,"",19,2993,18743,1,"","",Servicio Telefonico Movil,"","","",18743,"
+          1
+          Servicio Telefonico Movil
+          18743
+        ","","","","","",19 01 0039
+76719903-1,85956200-0,33,1,"
+        
+          
+            33
+            442
+            2019-01-07
+            2019-01-07
+          
+          
+            76719903-1
+            Primux SA
+            Servicio Tecnico Automotriz
+            502080
+            1-Casa Matriz
+            Los Productores 4462
+            Huechuraba
+            Santiago
+          
+          
+            85956200-0
+            Calvo Ingenieria S.A.
+            Acondicionamiento De Edificios
+            Fono: +56 2 25787114
+            Leon de la Barra N 9441
+            Lo Espejo
+            Santiago
+          
+          
+            
+            LEON DE LA BARRA N 9441
+            LO ESPEJO
+            SANTIAGO
+          
+          
+            197338
+            0
+            19
+            37494
+            234832
+          
+        
+         
+			1 
+			 
+				INT1 
+				152089599R 
+			 
+			Filtro de Aceite Renault 
+			1.0000 
+			C/U 
+			15333.000000 
+			15333 
+		
+         
+			2 
+			 
+				INT1 
+				165467674R 
+			 
+			Filtro de Aire 
+			1.0000 
+			C/U 
+			19339.000000 
+			19339 
+		
+         
+			3 
+			 
+				INT1 
+				164033646R 
+			 
+			Elemento Filtro Diesel 
+			1.0000 
+			C/U 
+			62666.000000 
+			62666 
+		
+         
+			4 
+			 
+				INT1 
+				ABT530T 
+			 
+			Aceite Booster Titanium 5W-30 
+			4.0000 
+			Litr 
+			10000.000000 
+			40000 
+		
+         
+			5 
+			 
+				INT1 
+				MO1REARKM 
+			 
+			Realizar Revision De 20000 Km 
+			2.0000 
+			HH 
+			30000.000000 
+			60000 
+		
+        
+          
+            76719903-1
+            33
+            442
+            2019-01-07
+            85956200-0
+            Calvo Ingenieria S.A.
+            234832
+            Filtro de Aceite Renault
+            
+              
+                76719903-1
+                PRIMUX S.A
+                33
+                
+                  368
+                  603
+                
+                2018-10-04
+                
+                  wHeLkgz7ISLXRXxJvV9Xa23cNbNy8Oc+7hvGNYXXY83TgwLQuaV+dgklDuS+T5DrnPXCwg6oyaAhYdrfZrictQ==
+                  Aw==
+                
+                300
+              
+              OuqtcGCtXA+4Z8sMuNbXxJyzug+h4Y+XiONb2XcpRuzf4dOctjGrBHP6B9yvX0NmybERvPZJNsnWN6zDB2ZRow==
+            
+            2019-01-07T17:13:05
+          
+          vPZ7trw/zzNEvqnCsWVqLXqHIF0oi0Tc2GTxLBKwnNtYDFqmc1pqgIFG58UGHu6+mfON7O2cVpsj
+dU4QbB7wqw==
+        
+        2019-01-07T17:13:05
+      ",442,2019-01-07,Primux SA,Servicio Tecnico Automotriz,1-Casa Matriz,Los Productores 4462,Huechuraba,197338,0,19,37494,234832,12345,INT1INT1INT1INT1INT1,152089599R165467674R164033646RABT530TMO1REARKM,Filtro de Aceite RenaultFiltro de AireElemento Filtro DieselAceite Booster Titanium 5W-30Realizar Revision De 20000 Km,"",1.00001.00001.00004.00002.0000,15333.00000019339.00000062666.00000010000.00000030000.000000,1533319339626664000060000," 
+			1 
+			 
+				INT1 
+				152089599R 
+			 
+			Filtro de Aceite Renault 
+			1.0000 
+			C/U 
+			15333.000000 
+			15333 
+		 
+			2 
+			 
+				INT1 
+				165467674R 
+			 
+			Filtro de Aire 
+			1.0000 
+			C/U 
+			19339.000000 
+			19339 
+		 
+			3 
+			 
+				INT1 
+				164033646R 
+			 
+			Elemento Filtro Diesel 
+			1.0000 
+			C/U 
+			62666.000000 
+			62666 
+		 
+			4 
+			 
+				INT1 
+				ABT530T 
+			 
+			Aceite Booster Titanium 5W-30 
+			4.0000 
+			Litr 
+			10000.000000 
+			40000 
+		 
+			5 
+			 
+				INT1 
+				MO1REARKM 
+			 
+			Realizar Revision De 20000 Km 
+			2.0000 
+			HH 
+			30000.000000 
+			60000 
+		"," 
+				INT1 
+				152089599R 
+			 
+				INT1 
+				165467674R 
+			 
+				INT1 
+				164033646R 
+			 
+				INT1 
+				ABT530T 
+			 
+				INT1 
+				MO1REARKM 
+			","","","","",19 01 0711
+76377649-2,85956200-0,33,1,"
+
+
+33
+49976
+2019-01-08
+2
+30 Dias Recep. Factura
+2019-02-07
+
+
+76377649-2
+AGUASIN SPA
+FABRICACION DE SUSTANCIAS QUIMICAS BASICAS, EXCEPTO ABONOS Y COMPUESTO
+241190
+Casa Matriz
+PANAMERICANA NORTE 18900
+LAMPA
+SANTIAGO
+Ag 1
+
+
+85956200-0
+CALVO INGENIERA S.A
+ACONDICIONAMIENTO DE EDIFICIOS
+VENTAS@CALVO.CL
+LEON DE LA BARRA 9441
+LO ESPEJO
+SANTIAGO
+aRGoMeDo 419
+STGo CeNTRo
+SaNTiaGo
+
+
+aRGoMeDo 419
+STGo CeNTRo
+SaNTiaGo
+
+
+321254
+0
+19
+61038
+382292
+
+
+
+1
+
+INT1
+QTQ14640
+
+QTQ14640
+TTO. QCO. ENTEL LONGOVILO
+1.000000
+C-U
+321254.000000
+321254
+
+
+1
+801
+30907
+2019-01-08
+
+76377649-233499762019-01-0885956200-0CALVO INGENIERA S.A382292QTQ14640
+
+76377649-2
+AGUASIN SPA
+33
+4989750896
+2018-12-31
+xbLZUHKBEMAHE8uke0VPOL+VoxBlw5xvm1BhASNzxC3gOmKhs3jVQUJGcLVjuzgIPhSSKYjmJVCkZ2P98MVshw==Aw==
+300
+
+MeokV5u/ltR1AaXdMn6iFcwvfC44dViIj/REK2oWbSCM6+gLneBXwa5zrwp/sjOvIUq9A447kqjW1D6mo+4ovw==
+2019-01-08T17:10:20bzN/yxf5LAxKQmnOtlMPJbeLD3n904jRrxQf8uTTX5uEB4e/tEhs3f6m9576Z6v3L8b2FNNsRZzYLH5hqywR8A==2019-01-08T17:10:20
+",49976,2019-01-08,AGUASIN SPA,"FABRICACION DE SUSTANCIAS QUIMICAS BASICAS, EXCEPTO ABONOS Y COMPUESTO",Casa Matriz,PANAMERICANA NORTE 18900,LAMPA,321254,0,19,61038,382292,1,INT1,QTQ14640,QTQ14640,TTO. QCO. ENTEL LONGOVILO,1.000000,321254.000000,321254,"
+1
+
+INT1
+QTQ14640
+
+QTQ14640
+TTO. QCO. ENTEL LONGOVILO
+1.000000
+C-U
+321254.000000
+321254
+","
+INT1
+QTQ14640
+",1,801,30907,2019-01-08,19 01 0369
+76377649-2,85956200-0,33,1,"
+
+
+33
+49977
+2019-01-08
+2
+30 Dias Recep. Factura
+2019-02-07
+
+
+76377649-2
+AGUASIN SPA
+FABRICACION DE SUSTANCIAS QUIMICAS BASICAS, EXCEPTO ABONOS Y COMPUESTO
+241190
+Casa Matriz
+PANAMERICANA NORTE 18900
+LAMPA
+SANTIAGO
+Ag 1
+
+
+85956200-0
+CALVO INGENIERA S.A
+ACONDICIONAMIENTO DE EDIFICIOS
+VENTAS@CALVO.CL
+LEON DE LA BARRA 9441
+LO ESPEJO
+SANTIAGO
+aRGoMeDo 419
+STGo CeNTRo
+SaNTiaGo
+
+
+aRGoMeDo 419
+STGo CeNTRo
+SaNTiaGo
+
+
+321254
+0
+19
+61038
+382292
+
+
+
+1
+
+INT1
+QTQ14642
+
+QTQ14642
+TTO. QCO. ENTEL CDLV2
+1.000000
+C-U
+321254.000000
+321254
+
+
+1
+801
+30908
+2019-01-08
+
+76377649-233499772019-01-0885956200-0CALVO INGENIERA S.A382292QTQ14642
+
+76377649-2
+AGUASIN SPA
+33
+4989750896
+2018-12-31
+xbLZUHKBEMAHE8uke0VPOL+VoxBlw5xvm1BhASNzxC3gOmKhs3jVQUJGcLVjuzgIPhSSKYjmJVCkZ2P98MVshw==Aw==
+300
+
+MeokV5u/ltR1AaXdMn6iFcwvfC44dViIj/REK2oWbSCM6+gLneBXwa5zrwp/sjOvIUq9A447kqjW1D6mo+4ovw==
+2019-01-08T17:10:20iI23y6/0ykmzgriWvlrC2qXDtDNyB4NqvN6YEJAcTkVXDFxhR92S9fV84Kz3bNm6AgF+XGoUT3KTthsGe+uAmA==2019-01-08T17:10:20
+",49977,2019-01-08,AGUASIN SPA,"FABRICACION DE SUSTANCIAS QUIMICAS BASICAS, EXCEPTO ABONOS Y COMPUESTO",Casa Matriz,PANAMERICANA NORTE 18900,LAMPA,321254,0,19,61038,382292,1,INT1,QTQ14642,QTQ14642,TTO. QCO. ENTEL CDLV2,1.000000,321254.000000,321254,"
+1
+
+INT1
+QTQ14642
+
+QTQ14642
+TTO. QCO. ENTEL CDLV2
+1.000000
+C-U
+321254.000000
+321254
+","
+INT1
+QTQ14642
+",1,801,30908,2019-01-08,19 01 0368
+76178360-2,85956200-0,33,1,"
+        
+          
+            33
+            1069396
+            2018-12-27
+          
+          
+            76178360-2
+            CENTRAL DE RESTAURANTES ARAMARK LIMITADA
+            SERV DE COMIDAS PREPARADAS-ELAB. Y COM. DE PROD.ALIMENTICIOS-EXP.SERV.ASEO INDUS
+            749990
+            Avenida del Condor 760
+            Huechuraba
+            Santiago
+          
+          
+            85956200-0
+            20117
+            CALVO CLIMATIZACION S.A.
+            CLIMATIZACION
+            
+            LEON DE LA BARRA 9441
+            LO ESPEJO
+            SANTIAGO
+          
+          
+            268908
+            19
+            51092
+            320000
+          
+        
+        
+          1
+          
+            QBLI
+            1
+          
+          SERVICIOS EN WATTS SAN
+          SERVICIOS EN WATTS SAN
+          
+          268908
+        
+        
+          2
+          
+            
+            
+          
+          BERNARDO SEGUN GUIA DESPACHO #
+          BERNARDO SEGUN GUIA DESPACHO #
+          
+          0
+        
+        
+          3
+          
+            
+            
+          
+          1298143
+          1298143
+          
+          0
+        
+        
+          1
+          50
+          1298143
+          2018-12-24
+          FACTURACION GUIA CONTADO
+        
+        
+          
+            76178360-2
+            33
+            1069396
+            2018-12-27
+            85956200-0
+            CALVO CLIMATIZACION S.A.
+            320000
+            SERVICIOS  EN WATTS SAN         
+            
+              
+                76178360-2
+                CENTRAL DE RESTAURANTES ARAMARK LIMITADA
+                33
+                
+                  1065205
+                  1077204
+                
+                2018-11-26
+                
+                  wplYqHXdYwhcOP+PEjZ7KZmGSQmnMcKjZo19slQD7NH/Z+a7+pxSGKQjPG+uzRKf2OSpPrWFkiXfa2wByJ8hRw==
+                  Aw==
+                
+                300
+              
+              FGVLcUIaghf5Owh05Z8abTnhrP7LkIhdSekNnctmLW89Epf/T1ZSprPHu/wj1iRNG8FMMq5a1KvFAnOe9ROV/w==
+            
+            2018-12-27T11:33:25
+          
+          S4JdxmGgJ6BSfIxSeK0wLteAKT8fxVIv6speMu0JJiCzi2/N3VYONZC1WPSow/dD2I79PK+6XulC
+Ppj2wabkAg==
+        
+        2018-12-27T11:33:25
+      ",1069396,2018-12-27,CENTRAL DE RESTAURANTES ARAMARK LIMITADA,SERV DE COMIDAS PREPARADAS-ELAB. Y COM. DE PROD.ALIMENTICIOS-EXP.SERV.ASEO INDUS,"",Avenida del Condor 760,Huechuraba,268908,"",19,51092,320000,123,QBLI,1,SERVICIOS EN WATTS SANBERNARDO SEGUN GUIA DESPACHO #1298143,SERVICIOS EN WATTS SANBERNARDO SEGUN GUIA DESPACHO #1298143,"","",26890800,"
+          1
+          
+            QBLI
+            1
+          
+          SERVICIOS EN WATTS SAN
+          SERVICIOS EN WATTS SAN
+          
+          268908
+        
+          2
+          
+            
+            
+          
+          BERNARDO SEGUN GUIA DESPACHO #
+          BERNARDO SEGUN GUIA DESPACHO #
+          
+          0
+        
+          3
+          
+            
+            
+          
+          1298143
+          1298143
+          
+          0
+        ","
+            QBLI
+            1
+          
+            
+            
+          
+            
+            
+          ",1,50,1298143,2018-12-24,19 01 0658
+70360100-6,85956200-0,33,1,"
+        
+          
+            33
+            230600
+            2018-12-28
+            2
+            2019-01-27
+          
+          
+            70360100-6
+            Asociación Chilena de Seguridad
+            Organismo Administrador de la Ley 16.744
+            749990
+            Ramón Carnicer No 163
+            Providencia
+            Providencia
+          
+          
+            85956200-0
+            CALVO INGENIERIA SA
+            ACONDICIONAMIENTO DE EDIFICIOS
+            LEON DE LA BARRA 9441
+            LO ESPEJO
+            LO ESPEJO
+          
+          
+            449265
+            19.00
+            85360
+            534625
+          
+        
+        
+          1
+          EVALUACION MEDICA SEL
+          1
+          UND
+          449265
+          449265
+        
+        
+          
+            70360100-6
+            33
+            230600
+            2018-12-28
+            85956200-0
+            CALVO INGENIERIA SA
+            534625
+            EVALUACION MEDICA SEL
+            
+              
+                70360100-6
+                ASOC CHILENA DE SEGURIDAD
+                33
+                
+                  228811
+                  238810
+                
+                2018-12-17
+                
+                  15qIwwj0Rs+bmfQOIUfWCNpWzGkSwcC1TmlN4KDDPm4K5MjlqrMZ9MnawFKOBLz0pIRSH2rA7nrdk/LuzCNHiQ==
+                  Aw==
+                
+                300
+              
+              GYSig0BcLZn23/7eOBrghwpzXQC938c79h0Q2NOxvBUdQO0jf+OXoWunxBi3USR6epCDeebA0TdoEHSv0WnBVw==
+            
+            2018-12-28T16:13:44
+          
+          BvpmWjzfAn9zyPX0hgGyFayUAexunaTnC72x9QyAE4ahRUK7PPLgq54vNnc9sjs+jb92veac6P+4
+x4wtohB2yA==
+        
+        2018-12-28T16:13:44
+      ",230600,2018-12-28,Asociación Chilena de Seguridad,Organismo Administrador de la Ley 16.744,"",Ramón Carnicer No 163,Providencia,449265,"",19.00,85360,534625,1,"","",EVALUACION MEDICA SEL,"",1,449265,449265,"
+          1
+          EVALUACION MEDICA SEL
+          1
+          UND
+          449265
+          449265
+        ","","","","","",19 01 0666
